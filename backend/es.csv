@@ -1,0 +1,1096 @@
+1;The Rising Sun - Pink;57; Estás en un desierto y te encuentras con un cubo, ¿qué tamaño tiene?; muy grande; tan grande como yo; muy pequeña;
+2;The Rising Sun - Pink;57; Estás en un desierto y te encuentras con un cubo, ¿de qué material está hecho?; metal; madera; vidrio; el plastico
+3;The Rising Sun - Pink;57; Estás en un desierto y te encuentras con un cubo, ¿qué posición ocupa?; se coloca en el suelo; esta debajo de la arena; esta en el aire;
+4;The Rising Sun - Pink;57; Estás en un desierto y, además de un cubo, ves una escalera, ¿qué tamaño tiene?; es muy alto; es tan grande como yo; es pequeño;
+5;The Rising Sun - Pink;57; Estás en un desierto y, además de un cubo, ves una escalera, ¿cómo es?; es de piedra con grandes escalones; es espiral; es una escalera de pintor;
+6;The Rising Sun - Pink;57; Estás en un desierto y, además de un cubo, ves una escalera, ¿dónde está?; apoyado en el cubo; encima del cubo;lejos del cubo;
+7;The Rising Sun - Pink;57; Estás en un desierto y, además de un cubo y una escalera, aparece un caballo, ¿cómo es?; hermosa y elegante; grande y lleno de energia; pequeño y cansado;
+8;The Rising Sun - Pink;57; Estás en un desierto y, además de un cubo y una escalera, aparece un caballo, ¿qué hace?; camina; esta parado; carreras;
+9;The Rising Sun - Pink;57; Estás en un desierto y, además de un cubo y una escalera, aparece un caballo, ¿qué posición ocupa?; está lejos del cubo y la escala; es al cubo y a escala; está muy cerca del cubo y la escala;
+10;The Rising Sun - Pink;57; Estás en un desierto y, además de ver un cubo, una escalera y un caballo, notas que se acerca una tormenta, ¿a qué distancia está?; esta encima de mi; esta muy lejos; se acerca rapido;
+11;The Rising Sun - Pink;57; Estás en un desierto y, además de ver un cubo, una escalera y un caballo, ha llegado una tormenta, ¿cuál de ellos se salva?; caballo; cubo; escalera;
+12;The Rising Sun - Pink;57;Estás en un desierto y, además de ver un cubo, una escalera y un caballo, también ves unas flores, ¿cuántas son?; sólo uno; pocos; muchos;
+13;The Rising Sun - Pink;57; Estás en un desierto y, además de ver un cubo, una escalera y un caballo, también ves flores, ¿a qué distancia están del cubo?; están muy cerca; estoy por encima del cubo; son distantes;
+14;The Rising Sun - Pink;57; Estás en un desierto y, además de ver un cubo, una escalera y un caballo, también ves flores, ¿de qué color son?; verde; rosa; amarillo; rojo
+15;The Rising Sun - Pink;57; La ciudad está inundada y entre las casas ves un objeto descendiendo al agua, ¿qué es?; un árbol; un par de zapatos; una bolsa llena de comida;
+16;The Rising Sun - Pink;57; Tienes que lavar mucha ropa a mano y tenderla afuera para que se seque, pero ves que el cielo está lleno de nubes oscuras. ¿Qué piensas?; mejor espera, el clima mejorará; el pronostico llama a buen tiempo; es mejor posponer hasta mañana;empiezo igual
+17;The Rising Sun - Pink;57; Estás mirando el mar desde tu habitación y te quedas dormido, ¿qué ves al despertar?; el sol empezando a ponerse; es de noche y el mar se sumerge en la oscuridad; hay una ligera niebla; un sol maravilloso
+18;The Rising Sun - Pink;57; Dos niños se miran desde una orilla opuesta del río, ¿de qué color es el puente que puede unirlos?; gris; rojo; negro; verde
+19;The Rising Sun - Pink;57; Te invitan a tocar como músico en una orquesta profesional, ¿qué instrumento eliges?; violín; contrabajo; trompeta; flauta
+20;The Rising Sun - Pink;57; Imagina un cielo azul, ¿cómo es el paisaje que lo rodea?; un paisaje nevado; un mar claro; una montaña llena de vegetación; un campo de flores amarillas
+21;The Rising Sun - Pink;57; Ves un león y una leona comiendo grandes trozos de carne, ¿qué te parece?; Tengo miedo; suerte ellos; eso es asqueroso; es su naturaleza
+22;The Rising Sun - Orange;56;Plantas 100 semillas de una planta especial en el desierto, ¿cuántas sobreviven?; 1 - 40; 41 - 80; 81 - 98; 99 - 100
+23;The Rising Sun - Orange;56; Comienza a llover muy fuerte y estás a 5 minutos del lugar al que debes llegar, ¿cómo reaccionas?; Encuentro un lugar para refugiarme; Estoy buscando una tienda para comprar un paraguas.; Abro el paraguas que siempre llevo conmigo; Corro para llegar lo antes posible
+24;The Rising Sun - Orange;56; Haces pompas de jabón en un campo abierto, ¿qué sucede?; flotan en el cielo; salen cientos de burbujas; sale uno enorme; el viento se los lleva
+25;The Rising Sun - Orange;56; Estás exhibiendo en un mercado de antigüedades, ¿cómo te va?; todos admiran mis joyas; nadie se detiene; Soy el expositor que más ha vendido;
+26;The Rising Sun - Orange;56; Imagina encontrar un huevo y romperlo, ¿qué animal es?; dinosaurio; serpiente; Tortuga; gallina
+27;The Rising Sun - Orange;56; Acabas de enfrentarte a un laberinto gigantesco, ¿cómo te sientes?;pensé que no podía salir; por suerte otras personas me ayudaron; fue dificil pero lo logré; fue muy fácil salir
+28;The Rising Sun - Orange;56; ¿Qué tipo de luchador serías en un ring?; un luchador dispuesto a todo para ganar; un luchador con una fuerza enorme; luchador que no manifiesta emociones; un luchador muy astuto
+29;The Rising Sun - Orange;56; Tienes que decidir la portada de tu nuevo disco de éxito, ¿qué características debe tener?; debe estar mi foto; debe haber un paisaje exótico; debe haber una imagen graciosa; debe haber una imagen abstracta
+30;The Rising Sun - Orange;56; Eres policía y acabas de detener a una persona, ¿qué te dice el criminal?; Me rindo, soy culpable; no tienes pruebas, soy inocente; haré que te despidan;
+31;The Rising Sun - Orange;56; Mientras caminas por la calle te encuentras con monstruos enojados, ¿por qué lo están?; es su naturaleza; tienen hambre; están buscando a su amado compañero; están decepcionados de la gente
+32;The Rising Sun - Orange;56;Estar fascinado por una obra de arte, ¿cuál es la imagen de la pintura?; una caricatura; un diseño abstracto; un autorretrato; un paisaje
+33;The Rising Sun - Orange;56; Si pudieras tener un borrador mágico que borrara lo que no te gusta, ¿qué borrarías?; quien; alguien que no me gusta; alguien a quien amé hace años;
+34;The Rising Sun - Orange;56; Un hombre se te acerca hasta que miras un cuadro, ¿qué te dice?; ¿Qué hora es?; ¿Te gusta?; soy el artista;
+35;The Rising Sun - Orange;56; Un reparador llama a tu puerta, ¿cuál es su trabajo?; hidráulico; electricista; técnico en computación; calderero
+36;The Rising Sun - Orange;56; Estás a dieta pero te hace sufrir, ¿por qué lo haces?; complacer a los demás; No estoy satisfecho con mi apariencia física.; complacer a la persona que amo;
+37;The Rising Sun - Orange;56; Un perro llama a la puerta y te entrega una carta, ¿qué contiene?; buenas noticias; una factura de electricidad vencida; una multa a pagar;
+38;The Rising Sun - Orange;56;Un loro llama a la puerta y te entrega una carta, ¿qué contiene?; buenas noticias; malas noticias; un plazo muy importante;
+39;The Rising Sun - Orange;56; Un tigre llama a la puerta y te entrega una carta, ¿qué contiene?; buenas noticias; malas noticias; un objeto misterioso;
+40;The Rising Sun - Orange;56; Una oveja llama a la puerta y te entrega una carta, ¿qué contiene?; buenas noticias; malas noticias; una barra de oro;
+41;The Rising Sun - Orange;56; Una tortuga llama a la puerta y te entrega una carta, ¿qué contiene?; buenas noticias; malas noticias; un pensamiento de amor;
+42;The Rising Sun - Orange;56; Un extraño te entrega un manuscrito antiguo, ¿de qué se trata?; lleva códigos secretos; trae las instrucciones para encontrar un tesoro; antiguas costumbres y tradiciones;
+43;Rocket - Red;46; ¿Tiene a menudo la sensación al final del día de que no ha hecho nada?; sí; no; muy a menudo; algunas veces
+44;Rocket - Red;46; ¿Te gustan los deportes?; sí; no; suficiente; poco
+45;Rocket - Red;46; ¿Te enojas si no obtienes el resultado que te propusiste?; sí; no; suficiente;
+46;Rocket - Red;46; ¿Tiene un papel prestigioso?; sí; no; Esperemos;
+47;Rocket - Red;46;¿Prefieres un lugar de vacaciones si suele ser frecuentado por algunos VIP?; Seguramente; no, no estoy interesado; me gustaria intentarlo;
+48;Rocket - Red;46; ¿Tiendes a posponer las cosas que tienes que hacer?; sí; no; con frecuencia; algunas veces
+49;Rocket - Red;46; ¿Tienes envidia de otras personas que logran grandes resultados?; sí; no; algunas veces; casi siempre
+50;Rocket - Red;46; ¿Te encantan los coches de lujo?; sí; no; suficiente;
+51;Rocket - Red;46; ¿Alguna vez has tenido la sensación de que alguien que vale menos que tú ha obtenido mejores resultados?; sí; no; algunas veces; casi siempre
+52;Rocket - Red;46; ¿Te gusta tomar una sauna?; sí; no; nunca lo he intentado;
+53;Rocket - Red;46; ¿vas a un gimnasio?; sí; no; Me gustaría;
+54;Rocket - Red;46; ¿Prefieres comprar ropa de diseñador?; sí; no; algunas veces; casi siempre
+55;Rocket - Red;46; ¿Estarías dispuesto a perder una amistad por una gran oportunidad laboral?; sí; no; quizás;
+56;Rocket - Red;46; ¿Trabajas solo para ganar dinero?; seguramente; no; tal vez solo por eso;
+57;Rocket - Red;46; ¿Organizas fiestas?; sí; no; poco frecuentemente; muy a menudo
+58;Rocket - Red;46; ¿Prefieres vivir en una villa o en un apartamento?; villa; Departamento; Prefiero vivir en una antigua granja;
+59;Rocket - Red;46; ¿Para Navidad, dinero o un regalo clásico?; dinero;regalo clásico; ninguno de los dos;
+60;Rocket - Red;46; ¿Te gustan los niños?; sí; no; suficiente;
+61;Rocket - Purple;45; ¿Te juntas con gente mayor?; sí; no; poco frecuentemente; muy a menudo
+62;Rocket - Purple;45; ¿Le quita tiempo a sus seres queridos para trabajar?; sí; no; muy a menudo; algunas veces
+63;Rocket - Purple;45; ¿Alguna vez desafías a otro automovilista en la carretera?; sí; no; En algunos casos me pasó;
+64;Rocket - Purple;45; ¿Te gusta viajar en tren?; sí; no; suficiente;
+65;Rocket - Purple;45; ¿Prefieres un hotel de 5 estrellas o unas vacaciones en una granja?; Hotel 5 estrellas; vacaciones en la granja; ninguno de los dos;
+66;Rocket - Purple;45; ¿Es el amor más importante que tu carrera?; sí; no; algunas veces;
+67;Rocket - Purple;45; ¿Preferirías nacer rico con una vida aburrida o pobre con una vida emocionante?; rico; pobre; No sé;
+68;Rocket - Purple;45; ¿Prefieres unas vacaciones en un velero, una lancha rápida o un pequeño bote de remos?; barco de vela; lancha rápida; bote de remos;
+69;Rocket - Purple;45; Habiendo alcanzado el éxito, ¿qué harías?; Pensaría en el próximo objetivo.; pensaría en ayudar a los demás; no haría nada más;
+70;Rocket - Purple;45; ¿Cuál de estos deportes elegirías?; béisbol; natación; Esgrima;
+71;Rocket - Purple;45;Prefieres vivir en:; campo; montaña; metrópoli;
+72;Rocket - Purple;45; ¿Cómo te ves dentro de 10 años?; en una isla del caribe; para jugar con mis hijos; alrededor del mundo por trabajo;
+73;Rocket - Purple;45; ¿La residencia de tus sueños?; una villa junto al mar; un loft súper moderno en una metrópolis; un rancho en el campo;
+74;Rocket - Purple;45; ¿Has intentado aprender un nuevo idioma?; sí; no; si, pero con poco esfuerzo;
+75;Rocket - Purple;45; ¿Cuántos idiomas sabes?;1;2; 3 o más;
+76;Rocket - Purple;45; ¿Alguna vez has querido asistir a un curso de especialización?; no, porque no quiero comprometerme; sí; algunas veces;
+77;Rocket - Purple;45; ¿Tienes envidia de otras personas que logran grandes resultados?; todos los días; nunca; poco frecuentemente;
+78;Rocket - Purple;45; ¿Suele consultar las noticias en línea varias veces al día?; real; falso; poco frecuentemente;
+79;Rocket - Green;44; En la vida, ¿consideras importante el apoyo de alguna persona influyente?; de ninguna manera; es de fundamental importancia; en algunas circunstancias sería importante;
+80;Rocket - Green;44; ¿Qué te gustaría aprender el próximo mes?; un idioma;un instrumento musical; una nueva profesión;
+81;Rocket - Green;44; Tu cena ideal:; en un lugar elegante; en un restaurante; en una pizzería;
+82;Rocket - Green;44; ¿Cuál de estas piedras preciosas prefieres?; diamante; Esmeralda; rubí;
+83;Rocket - Green;44; ¿Qué tipo de celular prefieres?; última generación; viejo estilo; odio los celulares;
+84;Rocket - Green;44; Para la cena, preferirías salir con:; un político; un actor/actriz; un cantante;
+85;Rocket - Green;44; Estás entrenando y no aguantas más, ¿cómo te comportas?; me detengo y descanso; hago un esfuerzo extra; Tengo que llegar a lograr mis metas y seguir adelante;
+86;Rocket - Green;44; Pensando en una pirámide, ¿qué te viene a la mente?; energía; una forma geometrica; una cosa preciosa;
+87;Rocket - Green;44; Finalmente compraste una casa después de tantos sacrificios, ¿qué opinas?; me gustaria uno mas grande; finalmente realicé mi sueño; permanecer alquilado hubiera sido una mejor opción;
+88;Rocket - Green;44; La gente está satisfecha porque:; ellos son sabios;no quieren arriesgarse; no tienen ambicion;
+89;Rocket - Green;44; Estás haciendo llamadas en frío para vender un producto pero todos te cuelgan, ¿cómo te comportas?; Salgo y vuelvo a intentarlo al día siguiente.; Llamo hasta que tenga éxito en mi intento; creo que es mejor cambiar de trabajo;
+90;Rocket - Green;44; ¿Puedes manejar los contratiempos que se te presenten?; Por supuesto; absolutamente no; depende de la intensidad del revés;
+91;Rocket - Green;44; ¿Qué papel tendrías en una comedia teatral?; yo seria la estrella; yo seria un extra; yo estaría en la audiencia;
+92;Rocket - Green;44; Si tuviera que elegir uno de estos coches...; deportivo; coche de la ciudad; minivan;
+93;Rocket - Green;44; En una carrera de relevos de tres personas, ¿en qué posiciones preferiría comenzar?; primero; segundo; tercera;
+94;Rocket - Green;44; ¿Consideras un plazo como algo inaplazable o siempre hay tiempo para recuperarlo?; inevitable; siempre hay tiempo; depende de la fecha limite;
+95;Rocket - Green;44; ¿Dirigirías una película?; sí; no;tal vez, nunca lo he intentado;
+96;Rocket - Green;44; ¿Te gustaría clasificar el correo en una oficina de correos?; sí; no;tal vez, nunca lo he intentado;
+97;Rocket - Green;44; ¿Cómo consideras algunas de tus intuiciones?; único; brillante; Rara vez tengo ideas;
+98;Love - Red;27; Cuando los amigos hablan de sexo, ¿qué haces?; me rio y bromeo; Me da vergüenza; intento cambiar de tema;
+99;Love - Red;27; ¿A menudo haces bromas traviesas?; sí; no; poco frecuentemente; muy a menudo
+100;Love - Red;27; ¿Sueles tomar la iniciativa con él/ella?; sí; no; poco frecuentemente; casi siempre
+101;Love - Red;27; Cuando pasa un chico o una chica simpáticos por la calle, ¿cómo reaccionas?; soy indiferente; aprecio discretamente; me inquieto;
+102;Love - Red;27; ¿Te gusta abrazar a la gente?; sí; no; suficiente;
+103;Love - Red;27; ¿Te gusta llevar de la mano a las personas que amas?; sí; no; suficiente;
+104;Love - Red;27; ¿Escribes notas a personas cercanas a ti?; sí; no; algunas veces;
+105;Love - Red;27; ¿Usas apodos cariñosos con las personas que te importan?; sí; no; algunas veces; muy a menudo
+106;Love - Red;27; ¿Confías en los demás?; sí; no; algunas veces; muy a menudo
+107;Love - Red;27; ¿Te gusta dar regalos?; sí; no; suficiente;
+108;Love - Red;27; ¿Te gusta consolar a los demás?; sí; no; poco;
+109;Love - Red;27; ¿Eres cariñoso?; sí; no; poco frecuentemente; muy a menudo
+110;Love - Red;27; ¿Qué piensas del amor?; una cosa maravillosa; una ilusión;prefiero la amistad;
+111;Love - Red;27; ¿Qué piensas sobre el matrimonio?; algo anticuado; una experiencia para hacer; una ilusión;
+112;Love - Red;27; Al ver una puesta de sol, ¿qué emociones sientes?; indiferencia; meloncolía; asombro y asombro;
+113;Love - Red;27; ¿Puedes contar tus pensamientos más íntimos?; sí; no; poco frecuentemente; casi siempre
+114;Love - Red;27; ¿Eres una persona celosa?; sí; no; poco frecuentemente; muy a menudo
+115;Love - Red;27; ¿Una mentira te hace sonreír?; sí; no; solo si no es grave;
+116;Love - Red;27; ¿Puedes resistir las tentaciones?; sí; no; poco frecuentemente; casi siempre
+117;Love - Pink;26; ¿Confías en los demás?; sí; no; poco frecuentemente; casi siempre
+118;Love - Pink;26; ¿Alguna vez has fantaseado con vivir en una isla desierta?; sí; no; algunas veces;
+119;Love - Pink;26; ¿Te pone nervioso no tener seres queridos a tu alrededor?; sí; no; suficiente;
+120;Love - Pink;26; ¿Se siente tratado como los demás miembros de su familia?; sí; no; poco frecuentemente;
+121;Love - Pink;26; ¿Te consideras una persona única e irrepetible?; sí; no; algunas veces; casi siempre
+122;Love - Pink;26; Cuando las cosas van bien en una relación, ¿todavía tiendes a hacerte preguntas?; sí; no; algunas veces; casi siempre
+123;Love - Pink;26; ¿Consideras a Cleopatra un personaje actual?; sí; no; poco;
+124;Love - Pink;26; Amo a la gente:; generoso; seguro de sí mismo; tímido;
+125;Love - Pink;26; Con tu pareja eres:; leal; apasionado; frío;
+126;Love - Pink;26;¿Te interesan las noticias de chismes?; sí mucho; suficiente; de ninguna manera;
+127;Love - Pink;26; Recibes una carta de un viejo amor, ¿cómo te sientes?; curioso; molesto; triste;
+128;Love - Pink;26; Llevas 2 años de novio...; te amo como el primer dia; necesito reflexionar; me gustaria conocer otras personas;
+129;Love - Pink;26; ¿Cómo te imaginas una propuesta de matrimonio?; muy romántico; no me lo imagino; algo desprevenido;
+130;Love - Pink;26; Cuando te enamoras de alguien, prefieres:; díselo inmediatamente; esperar a que la otra persona dé el primer paso; que las cosas pasan si tienen que pasar;
+131;Love - Pink;26; La persona que amas te regala algo reciclado de sus pertenencias...; ya no quiero verlo/a; de todos modos él/ella pensó en mí; Él/ella podría haberlo hecho mejor;
+132;Love - Pink;26; ¿Dejarías todo por amor?; no, hay cosas mas importantes; si, inmediatamente; No sé;
+133;Love - Pink;26; ¿Qué piensas de las personas celosas?; son inseguros;ellos son buenos para ser; Creo que se equivocan al ser;
+134;Love - Pink;26; ¿Alguna vez has soñado con una gran historia de amor?; siempre; no, ya estoy feliz; algunas veces;
+135;Love - Pink;26; Cuando alguien a quien amas tiene un mal día, ¿qué haces?; Le pido que me cuente lo que pasó; Prefiero dejarlo solo; no pretendo nada;
+136;Love - Green;25; ¿Te gusta dedicarle una canción a la persona que amas?; sí; no; rara vez lo hago;
+137;Love - Green;25; El amor a distancia es:; una ilusión; una gran cosa; el compromiso correcto;
+138;Love - Green;25; Siempre te enamoras de la persona equivocada...; si, siempre; no, nunca me ha pasado; me pasó una vez;
+139;Love - Green;25; Si te enamoraras de una persona casada, ¿qué harías?; trataría de olvidarlo; Le aconsejaría que se fuera de casa.; Le pido que se escapen juntos;
+140;Love - Green;25; Ser capaz de cambiar a la persona que amas es...; posible con paciencia; imposible; algo que no tiene sentido;
+141;Love - Green;25;Continuar una relación carente de pasión es:; algo normal con el tiempo; una locura; algo para discutir con tu pareja;
+142;Love - Green;25; ¿Aceptarías una propuesta indecente?; absolutamente sí; absolutamente no; depende de la oferta;
+143;Love - Green;25; Cuando tu pareja sale de casa, ¿qué haces?; Le escribo para saber dónde y con quién está.; Me lo paso bien solo para mi; Espero hasta que él/ella regrese;
+144;Love - Green;25; Tu pareja frecuenta asiduamente un club, ¿tú qué opinas?; le gusta mucho el lugar; se encuentra en secreto con algunas personas; no tengo este problema;
+145;Love - Green;25; La boda de un amigo es:; un día triste; una oportunidad para tener una gran comida; un dia de mucha felicidad;
+146;Love - Green;25; ¿Qué emociones te despierta un paisaje de campo?; serenidad; soledad; inquietud;
+147;Love - Green;25; Te dan vales para comprar, ¿qué haces?; Los uso todos para mi; le doy un poco a mi familia;Los comparto con personas menos afortunadas.;
+148;Love - Green;25; Durante una pelea con tu pareja dijiste cosas hirientes que no sientes, ¿cómo te comportas?; me disculpo inmediatamente; estoy callado; Trato de calmarme y trato de explicar mis razones;
+149;Love - Green;25; Demuéstrale tu cariño...; dando regalos; haciendo pequeños gestos; siendo cariñoso;
+150;Love - Green;25; Le das más regalos a:; tu compañero; tu familiar; amigos;
+151;Love - Green;25; El sexo está sobrevalorado...; muy cierto; falso; muy a menudo es;
+152;Love - Green;25; Tienes que llegar a tu pareja y puedes elegir entre un camino rápido pero aburrido y uno lento pero con hermosos paisajes, ¿cuál eliges?; rapido pero aburrido; lento con hermosos paisajes; depende de mi estado de ánimo;
+153;Love - Green;25; Una floristería te ha ofrecido regalar 20 rosas a la persona que amas, 10 rojas y 10 blancas, ¿cuál eliges?; elijo una mezcla; solo los rojos; solo los blancos;
+154;Love - Green;25;Estás en la entrada de la casa de la persona que amas y ella tiene mayordomo, ¿qué haces?; Le pido al mayordomo que la llame; Le pregunto al mayordomo si puedo ir sola con él/ella.; no se como comportarme;
+155;Love - Gold;24; Compraste rosas para la persona que amas, ¿dónde las colocas dentro de la casa?; en la cama; encima de una ventana; encima de una mesa;
+156;Love - Gold;24; Entras temprano en la mañana a la habitación de la persona que amas, ¿qué está haciendo?; él/ella está durmiendo; él/ella está despierto; él/ella está leyendo un libro;
+157;Love - Gold;24; Regresas de una tarde en casa de la persona que amas y puedes elegir entre un camino rápido pero aburrido y uno lento con hermosos paisajes, ¿cuál eliges?; rapido pero aburrido; lento con hermosos paisajes; depende de cómo fue la noche;
+158;Love - Gold;24; ¿Crees en el amor a primera vista?; sí; no; espero que me pueda pasar;
+159;Love - Gold;24; ¿Te enamoras de una persona en poco tiempo?; sí; no; me pasó;
+160;Love - Gold;24; Cuando piensas en el amor, ¿tiendes a crear ilusiones?; muy a menudo; nunca; algunas veces;
+161;Love - Gold;24;¿Estarías dispuesto a seguir a la persona que amas a cualquier parte?; sí; no; Depende de muchas cosas;
+162;Love - Gold;24; ¿Se puede reconocer un amor potencial ya desde las primeras actitudes?; sí; no; me pasó;
+163;Love - Gold;24; ¿Cuál de estas cosas es fundamental para ti en una relación amorosa?; entusiasmo; cariño; fidelidad;
+164;Love - Gold;24; ¿Alguna vez te has perdido una gran historia de amor?; por desgracia sí; no; tal vez, en el pasado;
+165;Love - Gold;24; ¿Comenzar un romance afecta tu vida diaria?; seguramente; no; ciertamente, al menos parcialmente;
+166;Love - Gold;24; ¿Echas de menos tener a alguien a quien amar a tu lado?; sí; no; algunas veces;
+167;Love - Gold;24; Tienes que emprender un largo viaje pero te has enamorado recientemente, ¿qué haces?; Me llevo a mi nuevo amor conmigo; Me voy, pero con tristeza en mi corazón; me voy sin pensar por un momento;
+168;Love - Gold;24; ¿Piensas a menudo en el futuro junto con tu pareja?; siempre pienso en eso; algunas veces; nunca;
+169;Love - Gold;24; ¿Crees que tu pareja te ayudaría económicamente si pierdes tu trabajo?; seguramente; No me parece; tal vez, nunca sucedió;
+170;Love - Gold;24;¿Tienes curiosidad por lo que hace tu pareja cuando no está contigo?; muchisimo; no; algunas veces;
+171;Love - Gold;24; Cuando estás con tu pareja, ¿tienes cuidado con las palabras que usas?; no; sí; poco frecuentemente; muy a menudo
+172;Love - Gold;24; ¿Tienes un comportamiento infantil con tu pareja?; sí; no; poco frecuentemente; muy a menudo
+173;Love - Gold;24; ¿Te gustan los amigos de tu pareja?; sí; no; sólo algunos;
+174;Love - Blue;23; ¿Alguna vez has pensado que tu pareja te está engañando?; no; sí; se me ocurrió pensar eso;
+175;Love - Blue;23; Cuando estás solo en un lugar hermoso, ¿piensas inmediatamente en ir allí con tu pareja?; no; sí; poco frecuentemente; muy a menudo
+176;Love - Blue;23; ¿Sueles salir con tu pareja y otra pareja?; poco frecuentemente; sí; siempre salimos solos;
+177;Love - Blue;23;“El verdadero amor no se conoce por lo que exige, sino por lo que ofrece.”;estoy de acuerdo;no estoy de acuerdo;estoy de acuerdo sólo en parte;
+178;Love - Blue;23;“El amor se descubre amando.”;estoy de acuerdo;no estoy de acuerdo;estoy de acuerdo sólo en parte;
+179;Love - Blue;23;“Puede haber amor sin celos, pero no sin temores.”;estoy de acuerdo;no estoy de acuerdo;estoy de acuerdo sólo en parte;
+180;Love - Blue;23;"“En el verdadero amor no manda nadie; obedecen los dos.”";estoy de acuerdo;no estoy de acuerdo;estoy de acuerdo sólo en parte;
+181;Love - Blue;23;“El que no ama siempre tiene razón: es lo único que tiene.”;estoy de acuerdo;no estoy de acuerdo;estoy de acuerdo sólo en parte;
+182;Love - Blue;23;“Que quien no ama los defectos, no puede decir que ama.”;estoy de acuerdo;no estoy de acuerdo;estoy de acuerdo sólo en parte;
+183;Love - Blue;23;“El amor verdadero empieza cuando no se espera nada a cambio.”;estoy de acuerdo;no estoy de acuerdo;estoy de acuerdo sólo en parte;
+184;Love - Blue;23;“Amarse a si mismo, es el inicio de un romance que dura toda la vida.”;estoy de acuerdo;no estoy de acuerdo;estoy de acuerdo sólo en parte;
+185;Love - Blue;23;"“El amor sólo descansa cuando muere. Un amor vivo es un amor en conflicto.""";estoy de acuerdo;no estoy de acuerdo;estoy de acuerdo sólo en parte;
+186;Love - Blue;23;"""El amor es una amistad con momentos eróticos.”";estoy de acuerdo;no estoy de acuerdo;estoy de acuerdo sólo en parte;
+187;Love - Blue;23;“El amor es fe y no ciencia.”;estoy de acuerdo;no estoy de acuerdo;estoy de acuerdo sólo en parte;
+188;Love - Blue;23;“El amor es una ocupación como otra cualquiera.”;estoy de acuerdo;no estoy de acuerdo;estoy de acuerdo sólo en parte;
+189;Love - Blue;23;“El primer beso no se da con la boca, sino con la mirada.”;estoy de acuerdo;no estoy de acuerdo;estoy de acuerdo sólo en parte;
+190;Love - Blue;23;“Es tan corto el amor y tan largo el olvido.”;estoy de acuerdo;no estoy de acuerdo;estoy de acuerdo sólo en parte;
+191;Love - Blue;23;"“Los hombres engañan más que las mujeres; las mujeres, mejor.”";estoy de acuerdo;no estoy de acuerdo;estoy de acuerdo sólo en parte;
+192;Help;13; Si escucha programas que hablan de medicamentos o drogas, ¿siente los síntomas que se describen?; sí; no; poco frecuentemente; muy a menudo
+193;Help;13; ¿Tienes miedo de conducir por carreteras que nunca has hecho antes?; sí; no; algunas veces;
+194;Help;13; ¿Duermes bien por la noche?; sí; no; poco frecuentemente; casi siempre
+195;Help;13; ¿Le tienes miedo a la oscuridad?; sí; no; depende de donde estoy;
+196;Help;13; ¿Afrontas lo inesperado con serenidad?; sí; no; poco frecuentemente; casi siempre
+197;Help;13;¿Puede mantener su concentración durante un período prolongado de tiempo?; sí; no; poco frecuentemente; casi siempre
+198;Help;13; ¿Siempre reservas antes de salir de vacaciones?; sí; no; casi siempre;
+199;Help;13; ¿Te relajas en vacaciones?; sí; no; casi siempre; poco frecuentemente
+200;Help;13; Antes de dormir, ¿preparas la ropa que usarás al día siguiente?; sí; no; muy a menudo; poco frecuentemente
+201;Help;13; Cuando una persona querida se demora, ¿piensas que pasó algo malo?; sí; no; muy a menudo; poco frecuentemente
+202;Help;13; ¿Alguna vez has sentido que te cuesta respirar?; sí; no; muy a menudo; poco frecuentemente
+203;Help;13; ¿Tienes pesadillas?; siempre; con frecuencia; algunas veces; nunca
+204;Help;13; ¿Siente que es incapaz de realizar ciertas tareas importantes que se le asignan?; sí; no; algunas veces; muy a menudo
+205;Help;13; ¿Tienes algún tic?; sí; no; a veces siento que tengo;
+206;Help;13; ¿Digieres bien?; sí; no; poco frecuentemente; casi siempre
+207;Help;13; ¿Cuál de estas tres obras de arte te causa más ansiedad?; El grito; Guernica; El joven Baco enfermo;
+208;Help;13; ¿Cómo te hace sentir observar un agujero negro?; ansiedad; curiosidad; sentimiento de ser insignificante;
+209;Help;13; Estás en un avión y hay fuertes turbulencias, ¿qué haces?; entro en pánico; Descanso relajado como si nada hubiera pasado;Trato de asegurarme mirando a la tripulación.;
+210;Help;13; ¿Te gusta tener días ocupados?; sí; no; algunas veces;
+211;Help;13; ¿El timbre del teléfono te causa ansiedad?; sí; no; algunas veces; muy a menudo
+212;Help;13; Un ser querido te dice que necesitas reunirte enseguida para hablar, ¿qué opinas?; una cosa mala; una buena noticia; no tengo ninguna idea en particular;
+213;Help;13; Por la noche:; yo duermo; trabajo; pienso; yo juego
+214;Great Wall;12; ¿Cuál es tu fuerza entre estos?; disciplina; fiabilidad; creatividad; compromiso
+215;Great Wall;12; ¿Cuál es tu mayor miedo entre estos?; no tener éxito en los negocios; no creas en mi mismo; estar solo;
+216;Great Wall;12; ¿Qué es lo que más te enoja de estas cosas?; niños gritando; gente grosera; padres cariñosos; mentiras
+217;Great Wall;12; ¿Qué te hace reír más entre estas cosas?; un comediante en la televisión; una broma de un amigo; cuando veo que se burlan de una persona; cuando leo un libro sarcástico
+218;Great Wall;12;Si pudieras elegir hacer una de estas cosas por un día, ¿qué harías?; me iria de viaje; haría deporte; jugaría; yo trabajaría
+219;Great Wall;12; ¿Preferirías?; paseo a caballo; ir a la pista con un coche; Dar un paseo;
+220;Great Wall;12; ¿Cuál de estas actividades en casa elegirías?; limpia el baño; corta la hierba; lavar los platos; Aspirar
+221;Great Wall;12; ¿Cuál de estos alimentos prefieres?; carne; verduras; Leche; pasta
+222;Great Wall;12; Si tuvieras que elegir un apodo, ¿cuál elegirías?; Bebé; Jefe; Rayo;
+223;Great Wall;12; ¿Te gustan las sorpresas?; no; sí; depende del tipo de sorpresa;
+224;Great Wall;12; ¿Cuál de estas es tu debilidad?; paciencia; compromiso; determinación;
+225;Great Wall;12; ¿Cuál de estas cosas preferirías hacer por la noche?; ver una película; estar en compañía de amigos; quedarse en casa con la familia; Lee un libro
+226;Great Wall;12; ¿Cuánto tiempo te gustaría vivir en una isla desierta?; toda la vida;solo un día; unos meses; ni siquiera un día
+227;Great Wall;12; Si tuvieras una cantidad infinita de dinero, ¿cuál de estas cosas harías?; yo no los usaria; Los daría todos a la caridad.; Me compraría todas las cosas lujosas que quiero;
+228;Great Wall;12; ¿Cuál de estos medios de transporte elegirías?; autobús; avión; coche; tren
+229;Great Wall;12; ¿Cuál de estos animales del zoológico prefieres?; león; mono; jirafa; llevar
+230;Great Wall;12; ¿Cuál de estas materias escolares prefieres?; matemáticas; historia; Arte;
+231;Great Wall;12; ¿Cuál de estas oraciones elegirías?; Paren la guerra; Detener la pobreza; Detén el trabajo;
+232;Great Wall;12; ¿Cuántos idiomas hablas?;1;2;3/4; más de 4
+233;Great Wall;12; ¿Quién de estas personas conoce tu mejor parte?; mis padres; un amigo; nadie; mi compañero
+234;Great Wall;12; ¿Cuál de estos artículos llevarías siempre contigo?; el anillo de bodas; una foto mía; un libro; una foto de mi familia
+235;Great Wall;12;¿Cuál de estas edades es la mejor?;20;30;40;50
+236;Great Wall;12; ¿Cuál de estas es la mejor manera de empezar el día?; juega con mi perro; beber un cafe; hacer deporte; tener un buen desayuno
+237;Rainbow - Dark;38; ¿Qué color asocias con la palabra generosidad?; blanco; verde; amarillo;
+238;Rainbow - Dark;38; ¿Qué color asocias con la palabra belleza?; violeta; azul; gris; amarillo
+239;Rainbow - Dark;38; ¿Qué color asocias con la palabra tristeza?; negro; marrón; azul;
+240;Rainbow - Dark;38; ¿Qué color asocias con la palabra ocasión?; rojo; fucsia; verde;
+241;Rainbow - Dark;38; ¿Qué color asocias con la palabra decisión?; negro; blanco; gris; rojo
+242;Rainbow - Dark;38; ¿Qué color asocias con la palabra sinceridad?; verde; amarillo; azul; blanco
+243;Rainbow - Dark;38; ¿Qué color asocias con la palabra crueldad?; negro; rojo; azul; violeta
+244;Rainbow - Dark;38; ¿Qué color asocias con la palabra ambición?; amarillo; verde; gris;
+245;Rainbow - Dark;38; ¿Qué color asocias con la palabra paz?; azul claro; azul; marrón;
+246;Rainbow - Dark;38; ¿Qué color asocias con la palabra felicidad?; azul; azul claro; verde; amarillo
+247;Rainbow - Dark;38; Si usaras una capa, ¿de qué color la querrías?; rojo; negro; verde;
+248;Rainbow - Dark;38; ¿Qué tipo de color prefieres?; caliente; frío;Amo todos los colores;
+249;Rainbow - Dark;38; Si pudieras elegir el color de tus ojos, ¿cuál sería tu favorito?; verde; azul claro; mi color es el mas hermoso; negro
+250;ColoriRainbow - Bright;39; Tienes que volver a pintar tu casa, ¿qué colores eliges?; blanco; colores oscuros; colores brillantes; colores claros
+251;ColoriRainbow - Bright;39; ¿Dónde destaca más tu color favorito?; en un vestido; en una casa; en un auto;
+252;ColoriRainbow - Bright;39; ¿Qué sensaciones te despierta el color negro?; inmovilidad; miedo; serenidad;
+253;ColoriRainbow - Bright;39; ¿Qué sensaciones te despierta el color rojo?; energía; Voltaje; agresión;
+254;ColoriRainbow - Bright;39; ¿Qué sensaciones te despierta el color amarillo?; ligereza; ambición; felicidad;
+255;ColoriRainbow - Bright;39; ¿Qué sensaciones te despierta el color verde?; equilibrio; positividad; negatividad;
+256;ColoriRainbow - Bright;39; ¿Qué sensaciones te despierta el color naranja?; protagonismo; rechazo; serenidad;
+257;ColoriRainbow - Bright;39; ¿Qué sensaciones te despierta el color morado?; decepcionado; ansiedad; equilibrio;
+258;ColoriRainbow - Bright;39;¿Qué sensaciones te despierta el color marrón?; alegría; inconformismo; negatividad;
+259;ColoriRainbow - Bright;39; ¿Qué sensaciones te despierta el color blanco?; pureza; miedo; tranquilo;
+260;ColoriRainbow - Bright;39; ¿Cuál de estos tres colores elegirías?; gris negro azul; rojo amarillo naranja; morado rosa blanco;
+261;ColoriRainbow - Bright;39; ¿Cuál de estos pares de colores elegirías?; azul verde; marrón amarillo; amarillo morado;
+262;Fantasy - Gold;10; ¿Pasas mucho tiempo pensando en lo que otras personas piensan de ti?; sí; no; rara vez pienso en eso;
+263;Fantasy - Gold;10; ¿Respetas a las personas inseguras?; sí; no; muy poco;
+264;Fantasy - Gold;10; ¿Valoras a alguien más que a ti mismo?; sí; no; algunas veces;
+265;Fantasy - Gold;10; ¿Eres capaz de insistir en conseguir algo que quieres?; sí; no; poco frecuentemente;
+266;Fantasy - Gold;10; ¿Ocasionalmente te dejas atrapar por picos de entusiasmo?; sí; no; poco frecuentemente; muy a menudo
+267;Fantasy - Gold;10; ¿De vez en cuando te dejas atrapar por picos de tristeza?; sí; no; poco frecuentemente; muy a menudo
+268;Fantasy - Gold;10; ¿Te encanta coleccionar cosas?; sí; no; algunas veces;
+269;Fantasy - Gold;10; ¿Crees que tienes una imaginación salvaje?; sí; no; tengo poca imaginacion;
+270;Fantasy - Gold;10; ¿Crees que tienes mucho gusto?; sí; no; muy poco;
+271;Fantasy - Gold;10;¿Está interesado en las fuentes de noticias que lee?; sí; no; muy poco; muchisimo
+272;Fantasy - Gold;10; ¿Consideras que el respeto por ti mismo es más importante que el respeto por los demás?; sí; no; algunas veces; casi siempre
+273;Fantasy - Gold;10; ¿Crees que las personas que buscan la perfección son sabias?; sí; no; poco;
+274;Fantasy - Gold;10; ¿Te gusta manipular a los demás?; sí; no; algunas veces;
+275;Fantasy - Gold;10; ¿Te gusta pensar en cosas e ideas absurdas incluso sin un propósito específico?; sí; no; poco frecuentemente; muy a menudo
+276;Fantasy - Purple;11; ¿Puedes encontrar la solución a tus problemas por ti mismo?; sí; no; poco frecuentemente; casi siempre
+277;Fantasy - Purple;11; ¿Analizas tus fracasos?; sí; no; con frecuencia; poco frecuentemente
+278;Fantasy - Purple;11; ¿Tiendes a olvidar los nombres de las personas?; sí; no; algunas veces; muy a menudo
+279;Fantasy - Purple;11; ¿Te gustaría formar parte de un gran equipo?; sí; no; algunas veces;
+280;Fantasy - Purple;11; ¿Te sientes una persona confiable?; sí; no; poco frecuentemente; casi siempre
+281;Fantasy - Purple;11; ¿Te atrae el misterio de la vida?; sí; no; suficiente;
+282;Fantasy - Purple;11; ¿Empatizas con los personajes mientras lees un libro?; Sí; no; algunas veces; casi siempre
+283;Fantasy - Purple;11; ¿Prefieres leer un libro o ver una película?; libro; película; ninguno de los dos;
+284;Fantasy - Purple;11; ¿Cuál de estas disciplinas prefieres?; historia; Ciencias; física; filosofía
+285;Fantasy - Purple;11; Si tuvieras que elegir un nombre para tu hijo, ¿cuál elegirías?; el nombre de una persona famosa;el nombre de un ser querido; el nombre de un personaje de dibujos animados;
+286;Fantasy - Purple;11; ¿Tiendes a crear situaciones imaginarias que no existen?; no; algunas veces; con frecuencia;
+287;Fantasy - Purple;11; Necesitas inspiración, ¿qué haces?; trato de quedarme solo; voy a las montañas; me siento mirando el mar;
+288;Fantasy - Purple;11; Prefieres revistas de:; muebles; jardinería; Ciencias; chisme
+289;Fantasy - Purple;11; ¿Crees en la importancia del arte?; sí; no; suficiente;
+290;Body - Pink;3; ¿Prefieres caminar a tomar el auto?; sí; no; me encanta tomar el tren;
+291;Body - Pink;3; ¿Se auto-receta medicamentos?; sí; no; Me gustaría;
+292;Body - Pink;3; ¿Te sientes lleno de energía por la mañana?; sí; no; poco frecuentemente; casi siempre
+293;Body - Pink;3; ¿Practicas algún deporte con regularidad?; sí; no; Me gustaría;
+294;Body - Pink;3; ¿Haces actividad competitiva?; sí; no; Me gustaría;
+295;Body - Pink;3; ¿Estás orgulloso de tu físico?; sí; no; poco frecuentemente; casi siempre
+296;Body - Pink;3; ¿Se siente con sobrepeso?; sí; no; poco frecuentemente; casi siempre
+297;Body - Pink;3; ¿Te sientes demasiado flaco?; sí; no; poco frecuentemente; casi siempre
+298;Body - Pink;3; ¿Estás sujeto a fuertes cambios de peso?; sí; no; algunas veces;
+299;Body - Pink;3; ¿No puedo esperar para ir a la cama por la noche?; sí; no; poco frecuentemente; muy a menudo
+300;Body - Pink;3; ¿Ves la televisión hasta que cenas con tu familia?; sí; no; poco frecuentemente; casi siempre
+301;Body - Pink;3;¿Te gusta quedarte despierto por la noche?; sí; no; suficiente; poco
+302;Body - Pink;3; ¿Pasas muchas horas en tu celular?; sí; no; poco frecuentemente; casi siempre
+303;Body - Pink;3; ¿Sueles comer fuera por trabajo?; sí; no; poco frecuentemente; casi siempre
+304;Body - Red;4; ¿Se puede seguir una dieta saludable?; sí; no; poco frecuentemente; casi siempre
+305;Body - Red;4; ¿Te preocupas a menudo por tu salud?; sí; no; poco frecuentemente; muy a menudo
+306;Body - Red;4; ¿Te resfrías a menudo?; sí; no; poco frecuentemente;
+307;Body - Red;4; ¿Tiene dificultad para concentrarse?; sí; no; suficiente;
+308;Body - Red;4; ¿Tienes mucha memoria?; sí; no; suficiente;
+309;Body - Red;4; ¿Te molestan los ruidos?; sí; no; suficiente;
+310;Body - Red;4; ¿Te despiertas a menudo durante el sueño?; sí; no; poco frecuentemente;
+311;Body - Red;4; ¿Ha tenido frecuentemente cambios de peso en su vida...; me paso muchas veces; no, siempre he tenido mas o menos el mismo peso; Me pasó una vez o algunas raras veces;
+312;Body - Red;4; ¿Cómo es tu postura?; recto y perfecto; siempre un poco inclinado hacia adelante; nunca me di cuenta;
+313;Body - Red;4; ¿Te gustaría que un chef se encargara de tu comida?; muchisimo; no; No sé; suficiente
+314;Body - Red;4; Alimentos amargos:; me gustan; Los odio; Los pruebo de vez en cuando;
+315;Body - Red;4; Alimentos grasos y dulces:; los amo; Los odio; Los pruebo de vez en cuando;
+316;Body - Red;4; ¿Mascas chicle a menudo?; sí; no; poco frecuentemente; muy a menudo
+317;Body - Red;4; ¿Te comes las uñas?; sí; no; poco frecuentemente; muy a menudo
+318;Family - Pink;8;Cuando piensas en un recuerdo de la infancia, ¿está relacionado con mamá o papá?; mamá; Papa; a ninguno; a los dos
+319;Family - Pink;8; Tus primeros recuerdos de la infancia se remontan a cuando estabas entre...; 2 y 4 años; 5 y 7 años; 8 y 10 años; no tengo recuerdos de mi infancia
+320;Family - Pink;8; El llanto de un bebé...; Me conmueve; me pone nervioso; me deja indiferente;
+321;Family - Pink;8; ¿Tu familia te ve como el miembro más influyente?; sí; no; algunas veces; casi siempre
+322;Family - Pink;8; Cuando mi padre me contaba historias, yo pensaba:; el es un mito; siempre me cuenta historias triviales; nunca me dijo nada;
+323;Family - Pink;8; Me gustaría tener un hermano o hermana para:; hablar con él/ella sobre mis problemas; ayudarlo en la vida; compartir secretos;
+324;Family - Pink;8; Tu mamá se pelea en la calle con un extraño, ¿qué haces?; yo tambien me enojo; trato de calmar a mi mama; trato de distraerla;
+325;Family - Pink;8; Tu hijo es extremadamente tímido, ¿qué haces para ayudarlo?;lo llevo a un psicologo; Trato de hacerlo encajar entre mucha gente.; Dejaré que supere su timidez por sí mismo.;
+326;Family - Pink;8; Cuando ves una pareja feliz, ¿cómo te sientes?; feliz por ellos; celoso; indiferente;
+327;Family - Pink;8; ¿Crees que tu familia te ha hecho daño alguna vez en la vida?; sí; no; algunas veces; casi siempre
+328;Family - Pink;8; ¿Son los padres las personas más importantes?; sí; no; ellos deberían ser;
+329;Family - Pink;8; ¿Los hijos crean problemas en la pareja?; sí; no; algunas veces; muy a menudo
+330;Family - Pink;8; Cuando seas adulto, ¿deberías irte de casa?; sí; no; esa seria la mejor solucion;
+331;Family - Pink;8; ¿Crees que los que han conseguido grandes éxitos en la vida no han tenido demasiadas complicaciones familiares?; sí; no; muy probable;
+332;Family - Pink;8; Si tienes una buena noticia, ¿a quién le dices primero?; a un familiar; a un amigo; a nadie;
+333;Family - Pink;8; Tienes una oferta de trabajo excepcional pero tienes que dejar a tus seres queridos durante cinco años, ¿aceptas?; sí; no; quizás; tengo que pensarlo mucho
+334;Family - Pink;8; ¿Alguna vez has utilizado la toalla o el albornoz de un familiar?; sí; no; muy a menudo; poco frecuentemente
+335;Family - Pink;8; ¿Tuviste una madre amorosa cuando eras niño?; sí; no; suficiente; muchisimo
+336;Family - Pink;8;¿Tu mamá te animó a ir al jardín de infantes?; sí; no; algunas veces;
+337;Family - Pink;8; ¿Te vestías de niño?; sí; no; poco frecuentemente; casi siempre
+338;Family - Red;9; ¿Qué pensaba tu mamá del trabajo de las mujeres?; una cosa útil para todas las mujeres; una mujer solo tiene que cuidar de la familia; ella nunca lo mencionó;
+339;Family - Red;9; ¿Mamá está celosa de ti?; sí; no; casi siempre; poco frecuentemente
+340;Family - Red;9; ¿Crees que eres el ídolo de tu mamá?; sí; no; No sé; muy probable
+341;Family - Red;9; ¿Mamá te daba regalos a menudo?; sí; no; poco frecuentemente;
+342;Family - Red;9; ¿Mamá siempre te esperaba si volvías tarde?; sí; no; algunas veces; muy a menudo
+343;Family - Red;9; ¿Tu madre refleja tu ideal de mujer?; seguramente; no; suficiente;
+344;Family - Red;9;"""Las madres perdonan siempre: han venido al mundo para eso.”";estoy de acuerdo;no estoy de acuerdo;estoy de acuerdo sólo en parte;
+345;Family - Red;9;“Con los hijos, pocas palabras, pero bondad y firmeza a la vez.”;estoy de acuerdo;no estoy de acuerdo;estoy de acuerdo sólo en parte;
+346;Family - Red;9;“No es la carne y la sangre, sino el corazón, lo que nos hace padres e hijos.”;estoy de acuerdo;no estoy de acuerdo;estoy de acuerdo sólo en parte;
+347;Family - Red;9;“El ángel de la familia es la mujer.”;estoy de acuerdo;no estoy de acuerdo;estoy de acuerdo sólo en parte;
+348;Family - Red;9;"“Hay un solo niño bello en el mundo, y cada madre lo tiene.""";estoy de acuerdo;no estoy de acuerdo;estoy de acuerdo sólo en parte;
+349;Family - Red;9;“Enséñame el rostro de tu madre y te diré quien eres.”;estoy de acuerdo;no estoy de acuerdo;estoy de acuerdo sólo en parte;
+350;Family - Red;9;“El amor es la cadena que ata a un niño a sus padres.”;estoy de acuerdo;no estoy de acuerdo;estoy de acuerdo sólo en parte;
+351;Family - Red;9;“Un buen padre vale por cien maestros.”;estoy de acuerdo;no estoy de acuerdo;estoy de acuerdo sólo en parte;
+352;Family - Red;9;“Los niños son el recurso más importante del mundo y la mejor esperanza para el futuro.”;estoy de acuerdo;no estoy de acuerdo;estoy de acuerdo sólo en parte;
+353;Family - Red;9;“Un padre se ocupa más de diez hijos que diez hijos de un padre.”;estoy de acuerdo;no estoy de acuerdo;estoy de acuerdo sólo en parte;
+354;Family - Red;9;“El trato que se le da a los niños es el que ellos luego darán a la sociedad.”;estoy de acuerdo;no estoy de acuerdo;estoy de acuerdo sólo en parte;
+355;Family - Red;9;“Sin una familia, el hombre, solo en el mundo, tiembla de frío.”;estoy de acuerdo;no estoy de acuerdo;estoy de acuerdo sólo en parte;
+356;Family - Red;9;“La paz y la armonía constituyen la mayor riqueza de la familia.”;estoy de acuerdo;no estoy de acuerdo;estoy de acuerdo sólo en parte;
+357;Family - Blue;7;“Por muy severo que sea un padre juzgando a su hijo, nunca es tan severo como un hijo juzgando a su padre.”;estoy de acuerdo;no estoy de acuerdo;estoy de acuerdo sólo en parte;
+358;Family - Blue;7;"“La primera mitad de nuestra vida nos la estropean nuestros padres; la segunda nuestros hijos.”";estoy de acuerdo;no estoy de acuerdo;estoy de acuerdo sólo en parte;
+359;Family - Blue;7;“La familia es la única institución que permite que vivan en común personas que no tienen nada en común.”;estoy de acuerdo;no estoy de acuerdo;estoy de acuerdo sólo en parte;
+360;Family - Blue;7;“Un buen padre vale por cien maestros.”;estoy de acuerdo;no estoy de acuerdo;estoy de acuerdo sólo en parte;
+361;Family - Blue;7;"“Las familias felices se parecen todas; las familias infelices son infelices cada una a su manera.”";estoy de acuerdo;no estoy de acuerdo;estoy de acuerdo sólo en parte;
+362;Family - Blue;7;"“La ingratitud más odiosa, pero también la más común y antigua, es la de los hijos hacia sus padres.""";estoy de acuerdo;no estoy de acuerdo;estoy de acuerdo sólo en parte;
+363;Family - Blue;7;“La fuerza de una familia, como la fuerza de un ejército, se funda en su mutua lealtad.”;estoy de acuerdo;no estoy de acuerdo;estoy de acuerdo sólo en parte;
+364;Family - Blue;7; ¿Tu papá jugaba contigo cuando eras niño?; sí; no; poco frecuentemente; muy a menudo
+365;Family - Blue;7; ¿Salías a menudo a cenar solo con tu papá?; sí; no; poco frecuentemente;
+366;Family - Blue;7; ¿Alguna vez has viajado solo tú y tu papá?; sí; no; poco frecuentemente; muy a menudo
+367;Family - Blue;7; Cuando sacaste una mala nota en la escuela, ¿tu papá te gritó?; siempre; nunca; poco frecuentemente; muy a menudo
+368;Family - Blue;7; ¿Recuerdas que tu papá te recogió?; sí; no; no recuerdo;
+369;Family - Blue;7; Cuando llegó a casa del trabajo, ¿papá habló con la familia?; sí; no; poco frecuentemente;
+370;Family - Blue;7; ¿Había a menudo amigos del padre en su casa?; sí; no; poco frecuentemente; muy a menudo
+371;Family - Blue;7; ¿Tu papá te impuso cierto curso de estudio?; sí; no; parcialmente;
+372;Family - Blue;7; ¿Papá te ha prohibido a menudo salir con amigos?; sí; no; poco frecuentemente;
+374;Family - Blue;7;“Los hijos son las anclas que atan la vida a las madres.”;estoy de acuerdo;no estoy de acuerdo;estoy de acuerdo sólo en parte;
+374;Family - Blue;7;" ""El corazón de una madre es un profundo abismo en cuyo fondo siempre encontrarás el perdón""."; muy cierto; No es tan; solo estoy parcialmente de acuerdo;
+375;Family - Blue;7; ¿Alguna vez tu padre te dijo que lo decepcionaste?; sí; no; una vez; muy a menudo
+376;Sun - Yellow;55; ¿Comes muy rápido?; sí; no; casi siempre; solo si tengo prisa
+377;Sun - Yellow;55; ¿Puedes darlo todo por una situación de fundamental importancia?; sí; no; casi siempre; poco frecuentemente
+378;Sun - Yellow;55; ¿Te encanta rodearte de amigos?; sí; no; suficiente; poco
+379;Sun - Yellow;55; ¿Prefieres el cine al teatro?; sí; no; amo los dos; no los atiendo
+380;Sun - Yellow;55; ¿Prefieres vivir en Miami o Helsinki?; miami; helsinki; me gustaria vivir en las dos ciudades;
+381;Sun - Yellow;55; ¿Hablas despacio?; siempre; nunca; poco frecuentemente; casi siempre
+382;Sun - Yellow;55; ¿Sueles llegar a tiempo a una cita?; siempre; nunca; poco frecuentemente; casi siempre
+383;Sun - Yellow;55; ¿Prefieres comer carne o pescado?; carne; pez; me encantan las verduras; me encanta la fruta
+384;Sun - Yellow;55; Cuando suena la alarma por la mañana, ¿te levantas inmediatamente?; sí; no; poco frecuentemente; casi siempre
+385;Sun - Yellow;55; ¿Tiendes a perder el control cuando te enojas?; sí; no; poco frecuentemente; casi siempre
+386;Sun - Yellow;55;¿Te detienes a reflexionar durante el día?; sí; no; poco frecuentemente; muy a menudo
+387;Sun - Yellow;55; ¿Respetas los límites de velocidad?; sí; no; poco frecuentemente; casi siempre
+388;Sun - Yellow;55; ¿Te gusta pasar tu tiempo libre con amigos?; sí; no; poco; muchisimo
+389;Sun - Yellow;55; ¿Compras ropa cara?; sí; no; muy a menudo; poco frecuentemente
+390;Sun - Yellow;55; ¿Te gusta vestir casual o elegante?; casual; elegante; tengo mi propio estilo;
+391;Sun - Yellow;55; ¿Te sientes observado cuando entras en un club?; sí; no; poco frecuentemente; casi siempre
+392;Sun - Yellow;55; Cuando estás con compañía, ¿prefieres conducir?; sí; no; poco frecuentemente; casi siempre
+393;Sun - Yellow;55; ¿Después de un mal día puedes pasar página?; sí; no; difícilmente;
+394;Sun - Green;53; ¿Prefieres una margarita o una rosa?; margarita; rosa; no me gustan las flores;
+395;Sun - Green;53; ¿Eres una persona sincera?; sí; no; poco frecuentemente; casi siempre
+396;Sun - Green;53; ¿Tienes miedo a las cosas nuevas?; sí; no; algunas veces; casi siempre
+397;Sun - Green;53; ¿Prefieres tener todo rápido o poco a poco?; todo rapido; un poco a la vez; Depende de la situación;
+398;Sun - Green;53; ¿Prefieres llevar unas deportivas o unos zapatos elegantes?; Zapatillas deportivas; zapatos elegantes; Depende de la situación;
+399;Sun - Green;53; ¿Visitas amigos sin avisarles de tu llegada?; sí; no; poco frecuentemente; casi siempre
+400;Sun - Green;53; ¿Te gusta contar chistes verdes?; sí; no; poco frecuentemente;
+401;Sun - Green;53;¿Te gusta dar regalos inesperados?; sí; no; no me gusta dar regalos;
+402;Sun - Green;53; Cuando estás de mal humor, ¿los demás lo notan?; sí; no; poco frecuentemente; casi siempre
+403;Sun - Green;53; ¿Te llevas bien con tus vecinos?; sí; no; depende de como se comporten los vecinos;
+404;Sun - Green;53; ¿Prestas de buena gana tus cosas si alguien te las pide?; sí; no; Los presto pero soy muy celoso de mis cosas;
+405;Sun - Green;53; ¿Prefieres hablar o escuchar?; hablar; escuchar; me gustan las dos situaciones;
+406;Sun - Green;53; ¿Necesita tranquilidad?; sí; no; algunas veces; casi siempre
+407;Sun - Green;53;" ¿Usas a menudo la palabra ""gracias""?"; sí; no; poco frecuentemente; muy a menudo
+408;Sun - Green;53; ¿Crees que la gente te respeta?; sí; no; Nunca pensé en ello;
+409;Sun - Green;53; ¿Escuchas de buen grado a una persona que te confía su problema?; sí; no; poco frecuentemente;
+410;Sun - Green;53; ¿Sueles invitar gente a tu casa?; sí; no; poco frecuentemente; muy a menudo
+411;Sun - Green;53; Si una persona expresa una opinión contraria a la tuya, ¿te pones nervioso?; sí; no; depende de como lo exprese;
+412;Sun - Blue;52; ¿Aceptas bromas?; sí; no; Depende de la situación;
+413;Sun - Blue;52; Tienes que salir con alguien pero tu película favorita está por comenzar, ¿qué haces?;salgo de todos modos; me quedaré en casa; Me invento una excusa para no salir;
+414;Sun - Blue;52; Tienes que acompañar a alguien a una cita médica pero tienes un compromiso, ¿qué haces?; yo lo acompaño; invento una excusa; Lo llamo y le digo la verdad;
+415;Sun - Blue;52; Antes de tomar una decisión, ¿qué haces?; lo pienso mucho; Consulto con amigos o familiares; nunca decido nada;
+416;Sun - Blue;52; ¿Cómo eliges a tus amigos?; siempre tengo los mismos amigos; cambio de amigos muy a menudo; prefiero estar solo;
+417;Sun - Blue;52; ¿Decide de forma independiente cómo y dónde pasar sus vacaciones?; sí; no; poco frecuentemente; casi siempre
+418;Sun - Blue;52; ¿Visitas a menudo las casas de otras personas?; sí; no; poco frecuentemente; casi siempre
+419;Sun - Blue;52; ¿Compartes aficiones con alguien más?; sí; no; Me encantaría;
+420;Sun - Blue;52; ¿Cuál es el momento del día en el que más te relajas?; Mañana; tardecita; noche;
+421;Sun - Blue;52; ¿Qué buscas cuando ves una película?; divertida; emociones; despreocupado;
+422;Sun - Blue;52; te gusta vestir:; elegante; casual; deportivo;con mi propio estilo refinado
+423;Sun - Blue;52; Cuando estás en una fiesta, ¿cómo te sientes?; observado; solo; contento;
+424;Sun - Blue;52; ¿Qué vehículo usarías para hacer un viaje al mar?; moto acuática; lancha rápida; bote de pedales;
+425;Sun - Blue;52; ¿Te gustaría ser diferente de lo que eres?; sí; no; algunas veces; casi siempre
+426;Sun - Blue;52; ¿Te consideras un ganador?; sí; no; poco frecuentemente; casi siempre
+427;Sun - Blue;52; ¿Te sientes inferior a los demás?; sí; no; poco frecuentemente; casi siempre
+428;Sun - Blue;52; ¿Puedes hacer discursos públicos?; sí; no; nunca lo he intentado;
+429;Sun - Blue;52; ¿Te gustaría mejorar tu carácter?; sí; no; a veces me gustaría;
+430;Sun - Red;54; ¿Cambiarías algo de tu personaje?; sí; no; cosas Pequeñas; casi todo
+431;Sun - Red;54; ¿Tienes confianza en ti mismo?; sí; no; poco frecuentemente; casi siempre
+432;Sun - Red;54; ¿Crees que eres lindo?; sí; no; suficiente; Espero
+433;Sun - Red;54; ¿Te sientes indispensable para alguien?; sí; no; algunas veces;
+434;Sun - Red;54; ¿Te prefieres en la foto o en el espejo?; foto; espejo; casi nunca me gusto; siempre me gusto
+435;Sun - Red;54; ¿A menudo te sientes culpable por algo?; sí; no; poco frecuentemente;
+436;Sun - Red;54; Cuando te felicitan, ¿crees que se lo merecen?; sí; no; poco frecuentemente; casi siempre
+437;Sun - Red;54;¿Eres incómodo cuando conoces a alguien nuevo?; sí; no; suficiente;
+438;Sun - Red;54; ¿Te consideras superior a las personas que te rodean?; sí; no; algunas veces;
+439;Sun - Red;54; ¿Obtuviste lo que esperabas en la vida?; sí; no; solo parcialmente;
+440;Sun - Red;54; ¿Crees que recibiste una buena educación?; sí; no; suficiente;
+441;Sun - Red;54; ¿Crees que los demás se aprovechan de ti?; sí; no; algunas veces; casi siempre
+442;Sun - Red;54; ¿Tiendes a subestimarte a ti mismo?; sí; no; algunas veces; casi siempre
+443;Sun - Red;54; ¿Crees que tienes mala suerte?; sí; no; algunas veces; casi siempre
+444;Sun - Red;54; ¿Crees que tus orígenes han influido en tu vida?; no hay duda; no; ciertamente en parte;
+445;Sun - Red;54; ¿Crees que tu pasado ha afectado tu presente?; no hay duda; no; ciertamente en parte;
+446;Sun - Red;54; ¿Te sientes hermosa?; sí; no; algunas veces;
+447;Sun - Red;54; ¿Te gusta ir al estadio?; algunas veces; nunca ha sido; es algo que no me interesa;
+448;Moon - Light Blue;32; ¿Te gusta cenar solo en el restaurante?; sí; no; algunas veces;
+449;Moon - Light Blue;32; ¿Te sientes incómodo cuando estás en un ascensor con un extraño?; sí; no; depende de con quien estoy tratando;
+450;Moon - Light Blue;32; ¿Te gustaría hacer el trabajo de un representante de ventas?; sí; no; Lo he hecho en el pasado, pero no me gustó.;
+451;Moon - Light Blue;32;¿Qué libro elegirías: La Odisea o El retrato de Dorian Gray?; La odisea; El retrato de Dorian Gray; no me gusta leer;
+452;Moon - Light Blue;32; ¿Simpatizas con el equipo más fuerte o con el más débil?; el más fuerte; El más débil; Casi no simpatizo con ningún equipo.;
+453;Moon - Light Blue;32; ¿Prefieres ir al cine o ver una película en casa?; cine; hogar; nunca veo peliculas;
+454;Moon - Light Blue;32; ¿Tienes juegos de mesa en casa?; sí; no; tal vez alguien de cuando era niño;
+455;Moon - Light Blue;32; ¿A menudo te sientes vigilado por los demás?; sí; no; algunas veces;
+456;Moon - Light Blue;32; ¿Te irías a vivir con un extraño?; sí; no; depende si me gusta fisicamente;
+457;Moon - Light Blue;32; ¿Te gustaría ir a un nuevo país donde nadie te conozca?; sí; no; esto depende del país;
+458;Moon - Light Blue;32; ¿Te gustaría contar tu vida completamente diferente a la real?; sí; no; a veces me gustaría;
+459;Moon - Light Blue;32; ¿Tienes miedo de perderte?; sí; no; solo si estoy en un lugar que no conozco;
+460;Moon - Light Blue;32; Un objeto está a punto de caerse de la mesa, ¿qué haces?; trato de agarrarlo; lo dejo caer;Hago como que no lo veo caer;
+461;Moon - Light Blue;32; Debido a una fuerte tormenta pierdes un viaje en barco programado, ¿qué haces?; reservo para otro dia; Espero que termine el mal tiempo; Voy directo a otro lugar con amigos;
+462;Moon - Light Blue;32; Alguien grita porque le acaban de robar, que haces?; hago como que no lo escucho; corro en su ayuda; pido ayuda;
+463;Moon - Light Blue;32; Si piensas en una pelota, ¿qué movimiento está haciendo?; se está deslizando; esta girando; la pelota se detiene;
+464;Moon - Light Blue;32; Un competidor de tu empleador te ofrece un salario más alto, ¿qué haces?; acepto inmediatamente; rechazo la oferta; lo pienso;
+465;Moon - Light Blue;32; ¿Dónde te relajas más?; en mi casa; mar; montaña;
+466;Moon - White;34; ¿Cuál es tu género literario favorito?; novela; horror; poesía;
+467;Moon - White;34; ¿Te gusta vestir?; un sombrero; un pañuelo; nada;
+468;Moon - White;34; ¿Tienes muchos amigos?; sí; suficiente; Lamentablemente no;
+469;Moon - White;34; ¿Te gustaría cambiar tu nombre?; Sí; no; a veces me gustaría;
+470;Moon - White;34;Un extraño te invita a bailar...; acepto inmediatamente; declino la invitación; me hago desear;
+471;Moon - White;34; Estás en una cena con extraños, ¿cómo te sientes?; cómodo; incómodo; protagonista absoluto;
+472;Moon - White;34; Recibes una invitación a cenar de tu mejor amigo en un lugar refinado, ¿qué te parece?; el quiere hablar conmigo; me parece muy extraño; un buen gesto;
+473;Moon - White;34; Te piden que escales una pequeña montaña…; declino la invitación; acepto con entusiasmo; invento una excusa;
+474;Moon - White;34; Tus amigos te han preparado una fiesta sorpresa...; me podrian avisar; que hermosa idea; me siento como una estrella;
+475;Moon - White;34; Cuando caminas...; Evito pisar las juntas del pavimento; Miro directamente a mi manera; Miro a mi alrededor;
+476;Moon - White;34; Tu organizas tus vacaciones...; meses de antelación; en el último minuto; buscando la relación precio/calidad adecuada;
+477;Moon - White;34; ¿Cómo se celebra un aniversario?; no lo celebro; siempre doy un regalo;organizo una velada romantica;
+478;Moon - White;34; Te presentan a una persona pero no entiendes el nombre, ¿qué haces?; pido el nombre; Planeo solicitar el nombre más tarde.; finjo que lo entiendo;
+479;Moon - White;34; ¿Prefieres permanecer en silencio a menudo?; nunca; Sí; algunas veces;
+480;Moon - White;34; Encuentras que las personas que siempre bromean son:; superficial; gracioso; inteligente;
+481;Moon - White;34; Odias ir a conciertos porque están demasiado llenos:; real; falso; no me interesan los conciertos;
+482;Moon - White;34; ¿Considera que los vendedores son personas confiables?; no, solo quieren vender; seguramente; Depende de la persona;
+483;Moon - White;34; Cuando sales con tu amigo, ¿intentas vestirte de acuerdo con su atuendo?; nunca; siempre; tengo mi propia forma de vestir;
+484;Moon - Red;33; ¿Te da vergüenza invitar a alguien a una cita?; muchisimo; de ninguna manera; depende de a quien le pregunte;
+485;Moon - Red;33; Si un vendedor sigue insistiendo en venderle un producto, ¿lo comprará finalmente?; no; más probable es que sí; depende si me gusta;
+486;Moon - Red;33;¿Crees que tu carácter está condicionado por las condiciones climáticas?; con frecuencia; algunas veces; nunca; siempre
+487;Moon - Red;33; Considero a los hombres superficiales cuando:; solo piensan en divertirse; solo piensan en dinero; ellos menosprecian todo;
+488;Moon - Red;33; Si nací en otro lugar...; hubiera sido la misma persona; hubiera tenido mas oportunidades; hubiera conocido a mejores personas;
+489;Moon - Red;33; Has ganado una entrada para 2 personas para asistir a un importante evento social, ¿qué decides hacer?; Me rindo; invito a alguien; voy solo;
+490;Moon - Red;33; Cuando suena el teléfono piensas:; me estan molestando; debe ser algo importante; me llaman para invitarme a algun lado;
+491;Moon - Red;33; Tienes que entretener a dos niños, ¿qué haces?; trato de hacerlos reir; les cuento una historia; los hago jugar entre ellos;
+492;Moon - Red;33; Entras en una habitación y la gente está hablando de ti, ¿qué piensas?; me estarán felicitando; No tengo ni idea;se burlaran de mi;
+493;Moon - Red;33; Después de mucho tiempo tienes una tarde libre, ¿qué haces?; salgo a cenar; me siento en el sofa a ver una pelicula; Llamo a todos para organizar una fiesta;
+494;Moon - Red;33; Tu teléfono está muerto, ¿cómo te sientes?; perdió; indiferente; ansioso; contento
+495;Moon - Red;33; Estás siendo cortejado por la persona más sexy de la ciudad, ¿qué haces?; les digo a todos; me lo guardo para mi; no confío en su cortejo;
+496;Moon - Red;33; Si durante una jornada laboral no tienes nada que hacer, ¿cómo te sientes?; aburrido; deprimido; soy feliz asi que descanso;
+497;Moon - Red;33; ¿Qué comida nunca te saltearías?; desayuno; comida; cena; Bocadillo de la tarde
+498;Moon - Red;33; ¿Crees que las cosas pueden estar condicionadas por la suerte?; si, absolutamente; de ninguna manera; a veces lo pienso;
+499;Moon - Red;33; ¿Te gusta ver en la televisión:; un espectáculo policial; un programa de cocina; un documental cientifico;
+500;Moon - Red;33; Tu pareja elige pasar las vacaciones con sus amigos y no contigo, ¿tú qué opinas?;él/ella prefiere quedarse con ellos; el/ella necesita relajarse; el/ella ya no es mi pareja;
+501;Moon - Red;33; ¿Te gusta cuidar las flores?; sí mucho; No, en absoluto; Me gustaría;
+502;Moon - Green;31; Ir rápido significa:; correr un gran riesgo; sentir una fuerte emoción; trata de llegar a tiempo;
+503;Moon - Green;31; Tienes que crear un ambiente divertido, ¿cómo lo haces?; pongo la musica; hago chistes; Naturalmente, no quiero ser gracioso.;
+504;Moon - Green;31; Si tuviera que escribir sus defectos en una hoja de papel, ¿cómo sería el papel?; quedaría en blanco; tendría algunas líneas llenas; tal vez no cabrían todos en un papel;
+505;Moon - Green;31; ¿Con quién celebras un éxito?; solo; solo con los que amo; con tantas personas como sea posible;
+506;Moon - Green;31; ¿Conocer gente nueva te da energía?; sí; no; poco; depende de la gente que conozca
+507;Moon - Green;31; ¿Cuál de estos juegos prefieres?; tarjetas; ajedrez; Monopolio;
+508;Moon - Green;31;Tienes 2 horas inesperadas de tiempo, ¿qué haces?; voy al cine; visito un museo; yo hago deportes; yo duermo
+509;Moon - Green;31; ¿Te gustaría refugiarte...; en un castillo; en un bosque; en un maizal;
+510;Moon - Green;31; ¿Cómo pasarías una noche en una gran metrópoli?; Iría a un buen lugar a beber y bailar.; en un hermoso restaurante; caminando por las calles del centro;
+511;Moon - Green;31; ¿Cuántos son tus mejores amigos?; entre 2 y 4; sólo uno; más de 5;
+512;Moon - Green;31; ¿Cómo te describiría tu profesor de primaria?; tímido y reservado; inquieto; dinámico;
+513;Moon - Green;31; ¿Tienes muchas cosas que decir?; sí; no; poco frecuentemente; depende del contexto
+514;Moon - Green;31; Después de hablar con la gente durante mucho tiempo, ¿prefieres estar solo?; sí; no; algunas veces; casi siempre
+515;Moon - Green;31; ¿Le gustaría tener alguna obra de arte para mostrar en público?; sí; no; no me interesa el arte;
+516;Moon - Green;31; ¿Te gustaría vivir en una casa con muchos extraños?; sí; no; no sé, debería intentarlo;
+517;Moon - Green;31;Te han presentado a un amigo de tu amigo, ¿cómo te comportas?; nos hacemos amigos rapidos; yo me quedo en el mio; trato de conocerlo mejor;
+518;Moon - Green;31; ¿Te encanta usar ropa provocativa?; sí; no; solo en raras ocasiones;
+519;Moon - Green;31; ¿Dormirías tranquilo incluso con una persona desconocida?; sí; no; No sé;
+520;Job - Green;15; El patrón te obliga a trabajar siempre horas extras, ¿tú qué opinas?; Lo dejo; seré importante en la empresa; ganaré más;
+521;Job - Green;15; ¿Qué siente tu cuerpo después de trabajar?; cansancio; energía; resistencia;
+522;Job - Green;15; ¿Prefieres trabajar como empresario o como empleado?; emprendedor; empleado; cada uno tiene sus lados positivo y negativo;
+523;Job - Green;15; ¿Qué es lo que más te cansa?; trabajo manual; trabajo mental; no trabajo;
+524;Job - Green;15; La empresa está en crisis y el empresario te pide que trabajes gratis unas horas por el bien de la empresa. ¿Aceptas?; sí; no; solo si propone un futuro aumento de sueldo;
+525;Job - Green;15;¿A qué nunca renunciarías entre estas cosas?; vacaciones de verano; vacaciones de invierno; un café después del almuerzo;
+526;Job - Green;15; ¿Sabes exactamente cuánto dinero tienes en tu cartera?; sí; no; poco frecuentemente; casi siempre
+527;Job - Green;15; ¿Sabes exactamente, además de dinero, lo que tienes en la cartera?; sí; no; poco frecuentemente; casi siempre
+528;Job - Green;15; ¿Qué animal elegirías entre estos para representar a tu familia?; un felino; un paquidermo; un pájaro;
+529;Job - Green;15; ¿Te gustaría crear una empresa que pueda ayudar a los países en desarrollo?; sí; no; no se pero puede ser interesante;
+530;Job - Green;15; ¿Lees las etiquetas en el supermercado?; sí; no; poco frecuentemente; casi siempre
+531;Job - Green;15; ¿Te gustaría organizar un concierto?; sí; no; No sé; Podría ser Interesante
+532;Job - Green;15; ¿Te gusta ver comerciales?; si, suficiente; no; me encantan los comerciales; odio los comerciales
+533;Job - Green;15; ¿Eres bueno dibujando?; sí; no; yo era de adolescente;
+534;Job - Green;15; ¿Te gustaría actuar?; sí; no; a veces me gustaría probar;
+535;Job - Green;15; ¿Consideras tu ciudad ecosostenible?; sí; no; poco;
+536;Job - Green;15; ¿Consideras a Al Pacino un gran actor?; sí; no; lo considero el mejor;
+537;Job - Green;15;¿Te gustaría vivir en las Maldivas?; sí mucho; no; No sé; preferiría otros lugares
+538;Job - Green;15; ¿Alguna vez has pensado en cómo harías un comercial?; sí; no; no, pero me gustaria;
+539;Job - Green;15; ¿Recibirías a un adicto en tu casa?; sí; no; solo si lo conozco; Admiro a los que lo hacen
+540;Job - Green;15; ¿Participarías en un descenso en canoa desde un arroyo?; sí; no;tal vez, nunca lo he intentado;
+541;Job - Red;16; ¿Te interesa entender una obra de arte?; sí; no; solo si me gusta;
+542;Job - Red;16; ¿Promoverías una campaña para defender los derechos de los niños?; sí; no; Me encantaría; yo no sería capaz de
+543;Job - Red;16; ¿Recitarías un poema en la radio?; sí; no; nunca, por ningún motivo; quizás
+544;Job - Red;16; ¿Te asustan los espacios cerrados?; sí; no; solo si esta oscuro;
+545;Job - Red;16; ¿En qué sector le gustaría iniciar un negocio?; bienes raíces; artesanía; Nunca quisiera tener mi propio negocio.;
+546;Job - Red;16; ¿Se arrepintió del curso de estudio que hizo?; sí; no; algunas veces; muy a menudo
+547;Job - Red;16; ¿Estarías dispuesto a cambiar tu vida por una oportunidad laboral?; sí; no; depende de la oferta;
+548;Job - Red;16; ¿Tu currículum refleja tu puesto de trabajo?; absolutamente no; sí; quizás;tengo un trabajo maravilloso
+549;Job - Red;16; ¿La gente que conoces estaría dispuesta a presentarte a alguien para una oferta de trabajo importante?; sí; no; tal vez, pero son envidiosos;
+550;Job - Red;16; ¿Crees que la presencia física es importante para obtener un puesto de trabajo importante?; sí; no; fundamental;
+551;Job - Red;16; ¿Alguna vez has ayudado a alguien a conseguir un trabajo?; sí; nunca; No tengo conexiones influyentes.;
+552;Job - Red;16; ¿Por qué la gente está desempleada?; no quieren trabajar; no tienen las habilidades adecuadas; el mundo de los negocios es demasiado complicado;
+553;Job - Red;16; Cuando lees sobre ofertas de trabajo ¿qué piensas?; los salarios son muy bajos; habilidades excesivas requeridas; solo los leo por curiosidad;
+554;Job - Red;16; ¿Pueden los jóvenes desempeñar funciones importantes en el trabajo?; absolutamente sí; absolutamente no; depende de sus habilidades;
+555;Job - Red;16; ¿Te gustaría trabajar como motivador para los demás?; yo no sería capaz de; Es mi sueño; No sé;
+556;Job - Red;16; ¿Ve a sus compañeros como una amenaza para su carrera?; algunas veces; siempre; nunca;
+557;Job - Red;16; ¿Te encanta detallar tu currículum?; sí mucho; No, en absoluto; solo menciono las cosas mas importantes;
+558;Job - Red;16;¿Crees que una entrevista de trabajo online puede tener un resultado positivo?; sí; no; poco frecuentemente;
+559;Job - Red;16; Tienes que entregar un trabajo para mañana por la mañana, aún no has terminado y ya es pasada la medianoche, ¿qué haces?; Aguanto hasta que termino; lo entrego incompleto; Me invento una excusa y no voy a trabajar;
+560;Job - Red;16; Un equipo está motivado si:; la gente gana mucho; la gente se siente considerada; las personas se hacen amigas;
+561;Job - Red;16; Cuando estás en el trabajo...; actúo como si fuera el jefe; trato de hacer bien mi trabajo; llamo a mis amigos;
+562;Job - Blue;14; ¿Te gustaría contratar personas directamente?; sí; no; quizás; es muy dificil
+563;Job - Blue;14; ¿Te gustaría organizar bodas?; sí; no; quizás; Es mi sueño
+564;Job - Blue;14; ¿Te gustaría trabajar en sectores que contribuyan a la mejora ecológica?; sí; no; quizás; Es mi sueño
+565;Job - Blue;14; ¿Te gustaría trabajar de cerca con los animales?; sí; no; muchisimo;
+566;Job - Blue;14; Tu jefe es una buena persona pero no es consistente…; Odio a la gente inconsistente; lo mas importante es que sea buena persona;Ojalá fuera buena persona y además consecuente;
+567;Job - Blue;14; ¿Qué tipo de abogado te gustaría ser?; Abogado Penalista; yo nunca seria abogado; un abogado que se ocupa de las causas sociales;
+568;Job - Blue;14;"""Disciplina, trabajo. El trabajo, la disciplina.”";estoy de acuerdo;no estoy de acuerdo;estoy de acuerdo sólo en parte;
+569;Job - Blue;14;"""El trabajo no es castigo para el hombre, es su recompensa, fuerza y placer.”";estoy de acuerdo;no estoy de acuerdo;estoy de acuerdo sólo en parte;
+570;Job - Blue;14;“La recompensa del trabajo bien hecho es la oportunidad de hacer más trabajo bien hecho.”;estoy de acuerdo;no estoy de acuerdo;estoy de acuerdo sólo en parte;
+571;Job - Blue;14;“Nuestra vida vale lo que nos ha costado en esfuerzo.”;estoy de acuerdo;no estoy de acuerdo;estoy de acuerdo sólo en parte;
+572;Job - Blue;14;“El mayor cansancio proviene del trabajo no realizado.”;estoy de acuerdo;no estoy de acuerdo;estoy de acuerdo sólo en parte;
+573;Job - Blue;14;“El artista no es nada sin el don, pero el don, no es nada sin trabajo.”;estoy de acuerdo;no estoy de acuerdo;estoy de acuerdo sólo en parte;
+574;Job - Blue;14;“La avaricia, el estímulo de la industria.”;estoy de acuerdo;no estoy de acuerdo;estoy de acuerdo sólo en parte;
+575;Job - Blue;14;“Halla la felicidad en tu trabajo o nunca serás feliz.”;estoy de acuerdo;no estoy de acuerdo;estoy de acuerdo sólo en parte;
+576;Job - Blue;14;“Nada, que merezca la pena tenerse, viene a uno si no es como resultado de un trabajo duro.”;estoy de acuerdo;no estoy de acuerdo;estoy de acuerdo sólo en parte;
+577;Job - Blue;14;“La pereza puede parecer atractiva, pero el trabajo da satisfacción.”;estoy de acuerdo;no estoy de acuerdo;estoy de acuerdo sólo en parte;
+578;Job - Blue;14;“El trabajo es un olvido activo que conviene al alma fuerte.”;estoy de acuerdo;no estoy de acuerdo;estoy de acuerdo sólo en parte;
+579;Job - Blue;14;“Convierte tu hobby en tu trabajo y no volverás a trabajar en la vida.”;estoy de acuerdo;no estoy de acuerdo;estoy de acuerdo sólo en parte;
+580;Job - Blue;14;“De nada vale estar vivo si hay que trabajar.”;estoy de acuerdo;no estoy de acuerdo;estoy de acuerdo sólo en parte;
+581;Job - Blue;14;“El placer que acompaña al trabajo pone en olvido a la fatiga.”;estoy de acuerdo;no estoy de acuerdo;estoy de acuerdo sólo en parte;
+582;Job - Blue;14;“Los grandes trabajos no son hechos por la fuerza, sino por la perseverancia.”;estoy de acuerdo;no estoy de acuerdo;estoy de acuerdo sólo en parte;
+583;Job - Blue;14; ¿Qué piensas de un trabajo de empleado?; aburrido; una excelente oportunidad; algo que da serenidad;
+584;Wolves - Grey;59; Ha estado haciendo cola durante una hora y un joven pasa junto a usted. ¿Como reaccionas?; lo empujo hacia afuera; me enfado y discuto; Le invito amablemente a respetar la línea.;
+585;Wolves - Grey;59;¿Crees que el uso de la violencia en determinadas situaciones es útil?; nunca; sí; solo para defenderme o defender a alguien querido para mi;
+586;Wolves - Grey;59; ¿Cómo te comportas en una discusión muy acalorada?; no me expreso; pierdo la paciencia; trato de explicar mis razones;
+587;Wolves - Grey;59; Cuando te enojas, ¿tiendes a romper algo?; sí; no; algunas veces; muy a menudo
+588;Wolves - Grey;59; ¿Tiendes a evitar a las personas que siempre se quejan?; sí; no; no soporto a la gente que se queja;
+589;Wolves - Grey;59; ¿Qué haces si estás atrapado en un atasco de tráfico?; Yo me enojo; llamo a mis amigos; pienso en mi trabajo;
+590;Wolves - Grey;59; Un hombre te tira café encima. ¿Como reaccionas?; lo insulto; acepto la disculpa; Me enojo, pero inmediatamente me calmo tan pronto como se disculpa.;
+591;Wolves - Grey;59; ¿Te gustaría ser Sylvester Stallone o Keanu Reeves?; Silvestre Stallone; Keanu Reeves; ninguno de los dos; ambos
+592;Wolves - Grey;59; ¿Crees que el verano es el momento perfecto para conocer gente nueva?; sí; no; probablemente si; no hay momento ideal
+593;Wolves - Grey;59; ¿Te gustan los matones?; sí; no; poco frecuentemente;
+594;Wolves - Grey;59;¿A menudo dices mentiras?; sí; no; poco frecuentemente; muy a menudo
+595;Wolves - Grey;59; ¿Estás dispuesto a hacer trampa para ganar?; sí; no; poco frecuentemente; casi siempre
+596;Wolves - Grey;59; Si te dan el cambio equivocado, ¿lo denuncias?; sí; no; solo si me sirvieron amablemente;
+597;Wolves - Grey;59; ¿Prefieres gran danés o chihuahua?; Gran Danés; chihuahuas; ninguno de los dos; me gustan los dos
+598;Wolves - Grey;59; ¿Estás apoyando al león o la gacela?; León; gacela; no tengo preferencias;
+599;Wolves - Grey;59; ¿Prefieres el perro o el gato?; perro; gato; ninguno de los dos; me gustan los dos
+600;Wolves - Grey;59; ¿Eres ahorrativo?; sí; no; poco frecuentemente; casi siempre
+601;Wolves - Grey;59; ¿Pasas la Navidad con tu familia?; sí; no; poco frecuentemente; casi siempre
+602;Wolves - Grey;59; ¿Te gusta volver a ver películas antiguas o series de televisión?; si suficiente; no; me gusta mucho;
+603;Wolves - Blue;58; ¿Haces el mismo trabajo que tus padres?; sí; no; no, pero me gustaria;
+604;Wolves - Blue;58; ¿Te gustan los deportes peligrosos?; sí; no; no, pero me gustaria;
+605;Wolves - Blue;58; ¿Te gustan las películas de horror?; sí; no; me gusta ver solo peliculas graciosas;
+606;Wolves - Blue;58; ¿Te gustaría un trabajo que te haga viajar todo el tiempo?; sí; no; depende del trabajo que me ofrezcan;
+607;Wolves - Blue;58; ¿Alguna vez te has mudado?; sí; no; una vez, hace muchos años;
+608;Wolves - Blue;58; ¿Te arrepientes del pasado?; sí; no; poco frecuentemente; muy a menudo
+609;Wolves - Blue;58;Si estás entre extraños, ¿tratas de conocerte?; sí; no; poco frecuentemente; casi siempre
+610;Wolves - Blue;58; ¿Te gustaría ir al espacio?; sí; no; no, pero definitivamente sería emocionante;
+611;Wolves - Blue;58; ¿Estás haciendo el trabajo que imaginabas de niño?; sí; No, en absoluto; no realmente, pero se acerca bastante;
+612;Wolves - Blue;58; ¿Es el mundo un lugar lleno de oportunidades?; sí; no; si, pero solo para unos pocos;
+613;Wolves - Blue;58; ¿Tomas bebidas azucaradas?; sí; no; poco frecuentemente; muy a menudo
+614;Wolves - Blue;58; ¿Te gusta usar perfume?; sí; no; no me gustan los perfumes; solo para situaciones especiales
+615;Wolves - Blue;58; ¿Prefieres un buen bistec o un buen plato de pescado?; un buen bistec; pez; ninguno de los dos; amo los dos
+616;Wolves - Blue;58; ¿Sabes nadar?; seguramente; no, nunca lo he intentado; si, pero tengo miedo;
+617;Wolves - Blue;58; ¿Prefieres Ferrari o Lamborghini?; ferrari; lamborghinis; ninguno de los dos; amo los dos
+618;Wolves - Blue;58; ¿Te gusta caminar bajo la lluvia?; sí; no; solo en verano;
+619;Wolves - Blue;58; ¿Es la infidelidad un gran defecto?; sí; no; sí, pero la tentación a veces es difícil de resistir;
+620;Wolves - Blue;58; ¿Te gustan los pasteles de chocolate?; sí; no; nunca los como;
+621;Wolves - Blue;58; ¿Te gusta la música clásica?; muchisimo; no, me aburre; suficiente; amo todos los generos musicales
+622;Wolves - Orange;60; ¿Consultas a menudo el horóscopo?; sí; no; poco frecuentemente;
+623;Wolves - Orange;60; ¿Tienes un plato favorito?; sí; no; yo lo tenia de niño;
+624;Wolves - Orange;60; ¿Mar o montaña?; mar; montaña; prefiero la ciudad;
+625;Wolves - Orange;60; ¿Sabes cómo cambiar un neumático de tu coche en caso de pinchazo?; seguramente; no; nunca lo he intentado;
+626;Wolves - Orange;60; ¿Recuerdas el nombre del último libro que leíste?; sí; no; no leo libros;
+627;Wolves - Orange;60; Te golpean con el carro pero no estas herido, que haces?; me quedo tranquilo; me enfado y me voy; Intento ganar dinero con lo que pasó.;
+628;Wolves - Orange;60; Descubres al ladrón que está asaltando tu casa, ¿qué haces?; Llamaré a la policía; lo dejaré ir; debería darle un puñetazo en la nariz;
+629;Wolves - Orange;60; Te han agraviado, ¿qué haces?; me vengo; siento tristeza; me quedo tranquilo;
+630;Wolves - Orange;60; Te ofrecen mucho, ¿a qué te dedicas?; les digo a mis padres; le digo a mi pareja; le digo a un amigo;
+631;Wolves - Orange;60; El médico se niega a visitarte porque olvidó un compromiso anterior, ¿qué haces?;empiezo a gritar; hago una nueva cita; me cambio de medico;
+632;Wolves - Orange;60; Si fueras piloto de F1, ¿cuál de estos 3 te gustaría ser?; Prost; Ayrton Senna; Schumacher;
+633;Wolves - Orange;60; Un enorme meteorito está a punto de caer sobre la tierra, ¿qué haces?; entro en pánico; Me acerco a las personas que amo; voy de fiesta con amigos;
+634;Wolves - Orange;60; Cuando entras en una carrera:; quiero ganar a toda costa; solo quiero dar lo mejor de mi; solo me interesa participar;
+635;Wolves - Orange;60; Si fueras un animal serías:; un perro; un gato; un leon;
+636;Wolves - Orange;60; Si fueras una flor serías:; un tulipán; una rosa; un girasol;
+637;Wolves - Orange;60; Si fueras una temporada serías:; primavera; el verano; otoño; invierno
+638;Wolves - Orange;60; Si fueras una fruta serías:; una manzana; una fresa; un melocotón;
+639;Wolves - Orange;60; Si fueras un insecto serías:; una hormiga; una abeja; una mariquita;
+640;Wolves - Orange;60; Si fueras un lugar serías:; Oceano; río; un lago;
+641;Lambs - Yellow;19; Prefieres una playa con:; rocas; arena; arena y guijarros;
+642;Lambs - Yellow;19; ¿Qué arma elegirías de estas?; escudo; lanza; daga;
+643;Lambs - Yellow;19; ¿Cuando ves un payaso que emoción te despierta?; miedo; felicidad; indiferencia;
+644;Lambs - Yellow;19; ¿Cuál de estos perros prefieres?; perro tejonero; Gran Danés; Bulldog inglés;
+645;Lambs - Yellow;19; ¿Cuál de estos gatos prefieres?; gato persa; gato de bengala; gato don esfinge;
+646;Lambs - Yellow;19; ¿Cuál de estos elementos prefieres?; fuego; agua; aire;
+647;Lambs - Yellow;19; ¿Cómo expresas estar enojado?; mirada amenazante; indiferencia; actitud irritante;
+648;Lambs - Yellow;19; ¿Cómo desahogas tu nerviosismo?; Estando solo; haciendo deportes; tomando un baño relajante;
+649;Lambs - Yellow;19; Te dan un boleto para una montaña rusa, ¿qué haces?; invento una excusa; lo acepto con entusiasmo; Rechazo cortésmente;
+650;Lambs - Yellow;19; Tu amigo te dice que vio un OVNI, ¿tú qué opinas?; creo que dijo la verdad; Me río; creo que eso es mentira;
+651;Lambs - Yellow;19;Si tu amigo exagera una situación que armaron juntos, ¿qué haces?; yo le corrijo; Me río; no pretendo nada;
+652;Lambs - Yellow;19; ¿Cómo reaccionas cuando te reprochan los errores del pasado?; No me importa; Me pongo nervioso; trato de explicar mis razones;
+653;Lambs - Yellow;19; Cuando no ayudas a los demás, te sientes...; egoísta; no siento ninguna emocion; listo para ayudarlos la próxima vez;
+654;Lambs - Yellow;19; Cuando te hacen daño, reaccionas así:; me vengo; Me rindo; pienso en como reaccionar;
+655;Lambs - Yellow;19; Si tu mejor amigo te cuenta un secreto íntimo…; me lo guardo para mi; les digo a todos; Se lo digo a la gente que quiero;
+656;Lambs - Yellow;19; ¿Te gusta ver películas conmovedoras?; sí; no; prefiero las peliculas graciosas;
+657;Lambs - Yellow;19; Si un amigo te presta su coche por unos días, ¿cómo se lo devuelves?; limpio y ordenado; con mas gasolina que cuando me la dio; como suelo usar el mio;
+658;Lambs - Yellow;19; Todos los días tu mejor amigo te pide un préstamo, ¿cómo reaccionas?; Yo me enojo; lo evito; le doy lo que puedo;
+659;Lambs - Yellow;19;Te probaste un vestido en una tienda pero no te gusta, ¿qué haces?; lo dejo en un estante; lo doblo; se lo doy a los vendedores;
+660;Lambs - Blue;17; Después de haber ofendido a un amigo, ¿qué piensas cuando estás solo?; se lo merecía; cuando me lo encuentro me disculpo; no me desahogué lo suficiente;
+661;Lambs - Blue;17; ¿Te gusta felicitar a tus amigos?; sí; poco; suficiente;
+662;Lambs - Blue;17; Una camarera se equivoca al darte cambio, ¿tú qué opinas?; ella contó mal; ella estaba distraída; ella me queria joder;
+663;Lambs - Blue;17; Si tu novia llega tarde que piensas?; ella es una persona grosera; algo pasó; no hay problema, suelo llegar tarde;
+664;Lambs - Blue;17; Un gran profesor me excita:; gran estima; envidiar; indiferencia;
+665;Lambs - Blue;17; Un joven que creó una gran empresa fue:; ayudado por los padres; muy afortunado; excelente;
+666;Lambs - Blue;17; ¿Prefieres gente cautelosa o sin prejuicios?; precavido; sin prejuicios; ninguno de los dos;
+667;Lambs - Blue;17;Un amigo ha traicionado tu confianza, ¿qué opinas?; algo extraño debe haber sucedido; tenia que esperarlo; definitivamente no fue su culpa;
+668;Lambs - Blue;17; Si en clase un compañero te pedía que le pasaras la solución a un trabajo, ¿qué hacías?; Le ayudé; podría estudiar más; Solía ayudarlo, pero luego esperaba su ayuda la próxima vez.;
+669;Lambs - Blue;17; En su opinión, ¿las organizaciones benéficas utilizan bien el dinero que reciben?; sí; no, lo usan para fines no benéficos; no siempre;
+670;Lambs - Blue;17; Tu equipo rival lo está haciendo muy mal en la liga, ¿cómo te sientes?; Estoy muy feliz; todos obtienen lo que se merecen; lo siento porque son buenos;
+671;Lambs - Blue;17; ¿Alguna vez has deseado a la pareja de un amigo?; sí; ni siquiera se me pasa por la cabeza; tal vez, en el pasado;
+672;Lambs - Blue;17; Tu vecino acaba de reformar su casa, ¿qué haces?; no pretendo nada; lo felicito; le pido que lo visite;
+673;Lambs - Blue;17; Tu hermosa vecina acaba de comprar un auto de lujo, ¿qué haces?; le pido que me muestre;Le pido que vayamos a dar un paseo juntos.; la ignoro;
+674;Lambs - Blue;17; Si tu hermana entrara a tu habitación sin permiso, ¿cómo reaccionarías?; no me importaría; me enojaria; Haría que se quedara, pidiéndole que toque la próxima vez;
+675;Lambs - Blue;17; Elige un deseo entre estos:; paz en el mundo; ser famoso; tener un auto deportivo de lujo;
+676;Lambs - Blue;17; Si pudieras leer la mente de las personas, ¿cómo usarías esta habilidad?; para hacer el bien; hacerse rico; para gobernar sobre otros;
+677;Lambs - Blue;17; ¿Cómo ha sido tu vida hasta ahora?; maravilloso; muy dificil; subidas y bajadas;
+678;Lamds - Green;18; ¿Ayudarías a tu archienemigo?; sí; no; quizás; difícilmente
+679;Lamds - Green;18; Estás lleno de fuerza...; en la mañana; por la tarde; Por la tarde;
+680;Lamds - Green;18; La vida te ofrece una gran oportunidad, ¿a qué te dedicas?; lo tomo sobre la marcha; No sé; Acepto solo si no es muy arriesgado;
+681;Lamds - Green;18; Puedes unirte al servicio secreto..; seria mi sueño; demasiado peligroso; puede ser una oportunidad interesante;
+682;Lamds - Green;18;Si fueras el presidente de tu país...; ayudaría a los más pobres; cambiaria todo; yo me enriqueceria;
+683;Lamds - Green;18; Estás a punto de tirarte de una roca, ¿qué te parece?; Tengo muchas ganas de hacerlo; esperemos que no haya piedras debajo; Me pregunto si alguien me está mirando.;
+684;Lamds - Green;18; Tienes una cita importante pero a quien esperabas no se presenta, ¿qué te parece?; no entiendo uno bien; definitivamente aparecerá la próxima vez; espero por horas;
+685;Lamds - Green;18; Sigues recibiendo llamadas de un número que no conoces, ¿qué haces?; reporto el numero; no contesto pero me intriga; bloqueo el numero;
+686;Lamds - Green;18; La emoción con la que más luchas es:; tristeza; enfado; miedo;
+687;Lamds - Green;18; En el zoológico, el animal que más te asusta es:; la jirafa; el gorila; El león;
+688;Lamds - Green;18; ¿Cuál de estos animales se parece más a ti?; serpiente; águila; Tigre;
+689;Lamds - Green;18;Terminar segundo en una carrera es:; una derrota; un gran resultado; una buena colocación;
+690;Lamds - Green;18; ¿Empiezas a discutir solo por diversión?; sí; no; algunas veces; casi siempre
+691;Lamds - Green;18; ¿Tiendes a terminar las oraciones de las personas cuando hablan?; sí; no; algunas veces; casi siempre
+692;Lamds - Green;18; Dañar a otros te hace sentir:; superior a los demás; una persona extraordinaria; No hago daño a otros deliberadamente.;
+693;Lamds - Green;18; ¿Eres la persona más inteligente que conoces?; sí; no; a veces pienso eso;
+694;Lamds - Green;18; Si fueras emprendedor, ¿te gustaría serlo?; Henry Ford; steve trabajos; John Pierpont Morgan;
+695;Lamds - Green;18; Si fueras deportista, ¿te gustaría serlo?; Michael Jordan; Usain Bolt; Ayrton Senna;
+696;Memento;28; ¿Cuando sales de casa dudas de que no la hayas cerrado con llave?; sí; no; algunas veces; casi siempre
+697;Memento;28; ¿Recuerdas los cumpleaños de familiares y amigos?; sí; no; poco frecuentemente; casi siempre
+698;Memento;28; ¿Recuerdas la letra de la canción?; sí; no; poco frecuentemente; casi siempre
+699;Memento;28; ¿Recuerdas episodios de tu infancia?; sí; no; muy pocos; solo tengo recuerdos confusos
+700;Memento;28;Cuando vas al supermercado, ¿preparas una lista de cosas para comprar?; sí; no; poco frecuentemente; casi siempre
+701;Memento;28; Cuando hueles algo, ¿lo asocias con algún recuerdo?; sí; no; algunas veces; casi siempre
+702;Memento;28;“El recuerdo de los pensamientos no es más que un ramo pequeño para nuestras ilusiones.”;estoy de acuerdo;no estoy de acuerdo;estoy de acuerdo sólo en parte;
+703;Memento;28;“El cultivo de la memoria es tan necesario como el alimento al cuerpo.”;estoy de acuerdo;no estoy de acuerdo;estoy de acuerdo sólo en parte;
+704;Memento;28;“La memoria es el único paraíso del cual no podemos ser expulsados.”;estoy de acuerdo;no estoy de acuerdo;estoy de acuerdo sólo en parte;
+705;Memento;28;“Una buena memoria suele ir unida a un juicio débil.”;estoy de acuerdo;no estoy de acuerdo;estoy de acuerdo sólo en parte;
+706;Memento;28;“El recuerdo es el perfume del alma.”;estoy de acuerdo;no estoy de acuerdo;estoy de acuerdo sólo en parte;
+707;Memento;28;“Nada hay más bello y que fortalezca más en la vida, que un puro recuerdo.”;estoy de acuerdo;no estoy de acuerdo;estoy de acuerdo sólo en parte;
+708;Memento;28;“La gran tragedia del mundo es que no cultiva la memoria, y por tanto olvida a los maestros.”;estoy de acuerdo;no estoy de acuerdo;estoy de acuerdo sólo en parte;
+709;Memento;28; ¿Te resulta fácil recordar nuevas nociones?; sí; no; suficiente; depende como me expliquen las nociones
+710;Memento;28; ¿Cuál es el evento histórico que primero viene a la mente?; 11 de septiembre de 2001;caída del régimen nazi; bomba atómica en Hiroshima;
+711;Round Table;47; ¿En una negociación escucha atentamente a la otra persona?; sí; no; poco frecuentemente; casi siempre
+712;Round Table;47; ¿A menudo estás de acuerdo con las conclusiones de los demás?; sí; no; poco frecuentemente;
+713;Round Table;47; ¿Esperas a que la otra persona dé su opinión primero?; sí; no; poco frecuentemente; casi siempre
+714;Round Table;47; ¿Tiene problemas para cerrar un trato?; sí; no; depende de con quien estoy tratando;
+715;Round Table;47; ¿Prefieres el compromiso a un argumento fuerte?; sí; no; poco frecuentemente; casi siempre
+716;Round Table;47; ¿Interrumpes a menudo a tu interlocutor?; sí; no; poco frecuentemente; muy a menudo
+717;Round Table;47; ¿Sueles hacer bromas sarcásticas?; sí; no; poco frecuentemente;
+718;Round Table;47; ¿Siempre piensas que tu interlocutor te está ocultando algo?; sí; no; casi siempre; algunas veces
+719;Round Table;47; ¿Crees que a menudo entiendes las necesidades de los demás?; sí; no; poco frecuentemente;
+720;Round Table;47; ¿Te inventas algún tema para hablar con alguien?; sí; no; algunas veces; muy a menudo
+721;Round Table;47; ¿Te gustan las negociaciones largas y complejas?; sí; no; de ninguna manera; son fascinantes
+722;Round Table;47; ¿Te pone nervioso pensar en un posible fracaso?; sí; no; muchisimo;
+723;Round Table;47; ¿Tiene dificultad para expresarse durante una negociación?; sí; no; algunas veces; casi siempre
+724;Round Table;47; ¿Alguna vez ha tenido palpitaciones durante una negociación?; sí; no; algunas veces;
+725;Round Table;47; ¿Alguna vez te han regañado por tu tono de voz?; sí; no; poco frecuentemente; muy a menudo
+726;Round Table;47;En la vida siempre hay quien gana y quien pierde?; sí; no; solo es parcialmente cierto;
+727;Round Table;47; ¿Eres una persona desconfiada?; sí; no; algunas veces; casi siempre
+728;Round Table;47; ¿Qué haces cuando la gente habla de algo que no te importa?; finjo interés; pienso en el trabajo; me comporto normalmente;
+729;Round Table;47; ¿Tiendes a modular tu tono de voz?; sí; no; poco frecuentemente; muy a menudo
+730;Round Table;47; Colocas un producto en el mercado que inmediatamente muestra grandes problemas técnicos, ¿qué haces?; recojo el producto y devuelvo el dinero; Trato de tratar con las personas que lo compraron.; Ya no respondo a sus solicitudes y me quedo con el dinero.;
+731;Round Table;47; ¿Cuál de estas situaciones te presiona más?; cambia de trabajo; mudarse; cambiar de pareja;
+732;Round Table;47; En un restaurante, donde sueles ir, pides tu plato favorito pero no es tan bueno como siempre...; ya no vuelvo ahi; puede pasar; Le presento mi inconformidad al dueño del restaurante;
+733;Round Table;47; Eres muy hábil en el manejo de las diversas situaciones que te ofrece la vida...; real; falso; suficiente;depende del tipo de situación
+734;One Shot - Red;36; Tu coche es:; siempre perfecto; siempre sucio; en buenas condiciones;
+735;One Shot - Red;36; Amor es:; un sufrimiento; lo mejor; la capacidad de “soportarse unos con otros”;
+736;One Shot - Red;36; Amistad es:; la cosa más importante; una ilusión; algo para cultivar siempre;
+737;One Shot - Red;36; El aburrimiento es:; no sientas emociones fuertes; hacer las mismas cosas todos los días; no tener seres queridos cerca;
+738;One Shot - Red;36; Melancolía es:; siempre piensa en cosas tristes; ver el lado negativo de las cosas; un buen sentimiento;
+739;One Shot - Red;36; La venganza es:; una manera de sentirse mejor; una cosa inútil; un mal presentimiento;
+740;One Shot - Red;36; Los filósofos son:; personas que no han encontrado otro trabajo; gente tratando de darle sentido a la vida; personas que tienen poca comprensión de la vida;
+741;One Shot - Red;36; Quien vive por ideales...; tendrá una vida triste; vive una vida extraordinaria; él/ella está en paz consigo mismo;
+742;One Shot - Red;36; La religión es:; una utopía;salvación; un misterio;
+743;One Shot - Red;36; El coraje es:; hacer frente a cada situación; ayudando a otros; no tomes decisiones impulsivas;
+744;One Shot - Red;36; Cuando suena la alarma...; me levanto enseguida; miro un poco el teléfono; Lo apago y duermo un poco más;
+745;One Shot - Red;36; Por la noche...; no puedo dormir; Me duermo en cuanto toco la cama; me despierto varias veces;
+746;One Shot - Red;36; ¿Qué artículos no pueden faltar en tu habitación?; fotos; marionetas; artículos de decoración;
+747;One Shot - Red;36; No puedes renunciar a...; una buena compañía; una buena copa de vino; una buena lectura;
+748;One Shot - Red;36; La lujuria es:; mi pecado favorito; algo que no me concierne; algo que me asusta, pero me atrae;
+749;One Shot - Red;36; Los tatuajes son:; una manera de sobresalir; una forma de cumplir; una forma de hacer imborrables algunos momentos;
+750;One Shot - Green;35; ¿Qué hace un niño solo en ese bar de noche?; Él está esperando a los padres.; se escapó de casa; El se perdió;
+751;One Shot - Green;35;La transgresión es:; una forma de expresarte; una forma de presumir; un remedio para el aburrimiento;
+752;One Shot - Green;35; La tenacidad es:; una cosa que no me funciona; la base para lograr un objetivo; lo que me gustaria tener;
+753;One Shot - Green;35; Cuando piensas en ciclismo, ¿cuál es la primera palabra que te viene a la mente?; dopaje; compromiso; libertad; fatiga
+754;One Shot - Green;35; ¿Con qué frecuencia cambia el tono de llamada de su teléfono celular?; nunca; con frecuencia; poco frecuentemente;
+755;One Shot - Green;35; ¿Qué pastel preferirías recibir para tu cumpleaños?; un pastel de chocolate; un pastel de crema; un pastel de frutas;
+756;One Shot - Green;35; Un poster que nunca debe faltar en tu oficina...; la ciudad de nueva york; Mi familia; un balneario;
+757;One Shot - Green;35; El horóscopo es:; una tontería; algo en lo que creo; un pasatiempo;
+758;One Shot - Green;35; Los soldados son:; personas que arriesgan sus vidas para protegernos; gente haciendo su trabajo; gente fanática;
+759;One Shot - Green;35; Tienes la mañana libre, ¿qué haces?; me quedo en la cama; doy un paseo; Leo un libro;
+760;One Shot - Green;35;En tu escritorio nunca falta...; una taza de café; un bolígrafo; una tijera;
+761;One Shot - Green;35; ¿Cuándo limpias?; nunca; todos los días; poco frecuentemente; muy a menudo
+762;One Shot - Green;35; Los coches antiguos...; me fascinan; son solo viejos naufragios; son un must social;
+763;One Shot - Green;35; Tu accesorio favorito es…; un sombrero; un par de gafas; una joya;
+764;One Shot - Green;35; Tiende a reemplazar las amistades después de un tiempo...; real; falso; poco frecuentemente;
+765;One Shot - Green;35; Tu armario es:; Muy ordenado; desordenado; ordenado y desordenado según mi estado de ánimo;
+766;One Shot - Green;35; Tu sonrisa es:; sincero; falso; forzado;
+767;Soul - Green;48; Junte las manos frente a usted entrelazando los dedos, ¿cuál pulgar está sobre el otro?; Correcto; izquierda; nadie;
+768;Soul - Green;48; Cuando piensas en un planeta de nuestra Galaxia, ¿cuál es el primero que te viene a la mente?; Venus; Júpiter; Marte; Plutón
+769;Soul - Green;48; ¿Cuál es tu divinidad griega favorita?; Zeus; Poseidón; Apolo; infierno
+770;Soul - Green;48; ¿Qué escritor interpreta mejor tus gustos?; Stephen King; Oscar Wilde; Ernest Hemingway;
+771;Soul - Green;48;Si piensas en el personaje de Dorian Gray, ¿te ves en él?; sí; no; parcialmente; me gustaria ser como el
+772;Soul - Green;48; ¿Te gustaría ser un gladiador o un emperador romano?; Gladiador; Emperador; ninguno de los dos;
+773;Soul - Green;48; ¿Te gustaría ser un gran explorador?; sí; no; quizás;
+774;Soul - Green;48; Si piensas en un veneno, ¿qué es lo primero que te viene a la mente?; arsénico; cianuro; cicuta;
+775;Soul - Green;48; ¿Cuál de estos presidentes estadounidenses te fascina más?; lincoln; kennedy; Nixon;
+776;Soul - Green;48; Cuando piensas en un hombre de paz, ¿quién te viene primero a la mente?; gandhi; Mandela; Martin Luther King;
+777;Soul - Green;48; ¿Te gustaría visitar otro planeta?; sí mucho; no; quizás; si, pero me daria mucho miedo
+778;Soul - Green;48; ¿Cuál de estos cantantes prefieres?; miguel jackson; John Lennon; Freddie Mercury;
+779;Soul - Green;48; ¿Cuál de estos instrumentos musicales prefieres?; violín; piano; guitarra;
+780;Soul - Green;48; A la palabra libertad se asocia una imagen de :; alas; pez; nubes;
+781;Soul - Green;48; A la palabra ternura asocias una imagen de :;un niño; un abrazo; un hombre viejo;
+782;Soul - Green;48; A la palabra violencia se le asocia una imagen de:; un arma; Una bofetada; un cuchillo;
+783;Soul - Green;48; A la palabra futuro se le asocia una imagen de:; un ordenador; un cielo despejado; un robot;
+784;Soul - Green;48; ¿En cuál de estos rascacielos te gustaría vivir?; Burj Khalifa; edificio Empire State; No me gustaría vivir en un rascacielos.;
+785;Soul - Pink;49; A la palabra pobreza se le asocia una imagen de:; un hombre sin hogar; un niño africano; un mundo llorando; gente feliz
+786;Soul - Pink;49; En la televisión escuchas que ha ocurrido un evento catastrófico, ¿qué crees que sucedió?; un terremoto; un huracán; un tsunami;
+787;Soul - Pink;49; Si pudieras vivir en una época pasada, ¿cuál te gustaría?; Antigua Grecia; Renacimiento; Antiguo Egipto; Edades medias
+788;Soul - Pink;49; Me gustaría ser:; rico; libre; inmortal; contento
+789;Soul - Pink;49; No soporto a la gente:; egoísta; egocéntrico; aburrido; siempre tarde
+790;Soul - Pink;49;¿Qué género de música prefieres?; roca; clásico; estallido; no amo la musica
+791;Soul - Pink;49; ¿Cuál es tu superhéroe favorito de estos?; hombre murciélago; hombre araña; Casco;
+792;Soul - Pink;49; Cuando en parte tienes una persona alta, ¿cómo te sientes?; intrigado; sereno; avergonzado;
+793;Soul - Pink;49; ¿Qué famoso animal de película te gustaría ser?; pedro conejo; rey kong; Aleta;
+794;Soul - Pink;49; ¿Qué animal acuático te representa mejor?; ballena; tiburón; delfín;
+795;Soul - Pink;49; Está lloviendo y estás sin paraguas, ¿qué decides hacer?; busco refugio; Busco a alguien con un paraguas; sigo caminando bajo la lluvia;
+796;Soul - Pink;49; Mientras hablas de un tema que conoces muy bien, te das cuenta de que la persona que tienes delante no te presta atención, ¿qué haces?; trato de explicarlo de una manera mas simple; sigo igual; Me pongo nervioso;
+797;Soul - Pink;49; Tienes una entrada para visitar uno de estos continentes, ¿cuál eliges?;África; Europa; Asia;
+798;Soul - Pink;49; Cuando estás en la playa, ¿qué prefieres?; silencio; un libro; una cerveza fria;
+799;Soul - Pink;49; ¿Te hubiera gustado ser faraón?; sí mucho; no; quizás;
+800;Soul - Pink;49; me gustaria morir...; de manera heroica; sin darse cuenta; junto con todas las personas que amo;
+801;Soul - Pink;49; Si tuvieras que elegir entre estos meses...; enero; Mayo; Octubre; Agosto
+802;Soul - Pink;49; Una mujer siempre perfectamente maquillada te excita:; admiración; malestar; indiferencia;
+803;Soul - Yellow;51; ¿Sales de casa sin peinarte?; sí a veces; nunca; casi siempre;
+804;Soul - Yellow;51; En tu jardín plantarías:; muchas flores de colores; un retoño; un arbol alto;
+805;Soul - Yellow;51; Has decidido volver a practicar un deporte, ¿cómo gestionas tu tiempo?; Me tomo el tiempo para practicarlo.; lo hago a diario; lo hago cuando puedo;
+806;Soul - Yellow;51; ¿Cuál de estos artículos electrónicos portátiles preferirías tener?; relojes inteligentes; visor 3d; audífonos inalámbricos;
+807;Soul - Yellow;51; ¿Te gusta ver la tele?; sí; no; poco frecuentemente;
+808;Soul - Yellow;51;¿Qué mascota prefieres entre estas?; conejo enano; conejillo de indias; parot;
+809;Soul - Yellow;51; Las personas cercanas a ti son todas muy puntuales...; real; falso; casi todos; casi ninguno
+810;Soul - Yellow;51; Solo cuidas a los demás si los demás te cuidan a ti...; real; falso; algunas veces; casi siempre
+811;Soul - Yellow;51; ¿Tratas de evitar discusiones sobre el sentido de la vida?; sí; no; algunas veces; casi siempre
+812;Soul - Yellow;51; ¿Te sientes una persona disciplinada?; sí; no; poco frecuentemente; muy a menudo
+813;Soul - Yellow;51; ¿Te sientes una persona especial?; sí; no; poco frecuentemente; muy a menudo
+814;Soul - Yellow;51; ¿Te sientes una persona tímida?; sí; no; algunas veces; casi siempre
+815;Soul - Yellow;51; ¿Te sientes una persona curiosa?; sí; no; poco frecuentemente; muy a menudo
+816;Soul - Yellow;51; ¿Te sientes como una persona que siempre está al límite?; sí; no; algunas veces;
+817;Soul - Yellow;51; ¿Te sientes como una persona privada?; sí; no; casi siempre;
+818;Soul - Yellow;51; ¿Te sientes una buena persona?; sí; no; poco frecuentemente;
+819;Soul - Yellow;51; ¿Te sientes una persona creativa?; sí; no; poco frecuentemente; muy a menudo
+820;Soul - Yellow;51; ¿Te sientes una persona olvidadiza?; sí; no; muy a menudo; algunas veces
+821;Soul - Red;50; ¿Te sientes una persona caritativa?; sí; no; poco frecuentemente;
+822;Soul - Red;50; ¿Te sientes una persona imaginativa?; sí; no; poco frecuentemente; casi siempre
+823;Soul - Red;50; ¿Te sientes una persona humilde?; sí; no; poco frecuentemente; casi siempre
+824;Soul - Red;50; ¿Te sientes una persona optimista?; sí; no; poco frecuentemente; casi siempre
+825;Soul - Red;50; ¿Te sientes una persona pesimista?; sí; no; poco frecuentemente; casi siempre
+826;Soul - Red;50; ¿Te sientes una persona organizada?; sí; no; poco frecuentemente; casi siempre
+827;Soul - Red;50;¿Te sientes una persona habladora?; sí; no; poco frecuentemente; casi siempre
+828;Soul - Red;50; ¿Te enganchas cuando ves telenovelas?; sí; no; suficiente; yo no veo telenovelas
+829;Soul - Red;50; ¿Siempre estás buscando situaciones aventureras?; sí; no; poco frecuentemente; casi siempre
+830;Soul - Red;50; ¿Tiene hábitos que se han arraigado durante años?; sí; no; por desgracia sí;
+831;Soul - Red;50; ¿Te gustaría examinar objetos de la antigüedad?; sí; no;tal vez, nunca lo he intentado;
+832;Soul - Red;50; ¿Te gustaría ser capaz de interpretar correctamente las pruebas médicas?; sí; no; algunas veces;
+833;Soul - Red;50; ¿Le gustaría operar una grúa en un sitio de construcción?; sí; no;tal vez, nunca lo he intentado;
+834;Soul - Red;50; ¿Le gustaría realizar un análisis forense en la escena de un crimen?; sí; no;tal vez, nunca lo he intentado;
+835;Soul - Red;50; ¿Te gustaría enseñar a un niño a jugar con otros niños?; sí; no;tal vez, nunca lo he intentado;
+836;Soul - Red;50; ¿Te gustaría grabar frases en madera?; sí; no;tal vez, nunca lo he intentado;
+837;Soul - Red;50; ¿Te gustaría estudiar especies marinas?; sí; no; tal vez, nunca lo hice;
+838;Soul - Red;50; ¿Te gustaría trabajar en el ejército?; sí; no; tal vez, no lo sé;
+839;Soul - Red;50; ¿Le gustaría recibir cumplidos por:; una buena personalidad; valentía; inteligencia;
+840;Behave;2; ¿La gente respeta la ley por miedo a las sanciones?; seguramente; no; casi siempre;
+841;Behave;2;¿La inmigración crea problemas?; seguramente; no; poco frecuentemente; muy a menudo
+842;Behave;2; ¿La mayoría de la gente es mentirosa?; sí; no; solo es parcialmente cierto;
+843;Behave;2; ¿Participa en algún evento político?; sí; no; poco frecuentemente; muy a menudo
+844;Behave;2; ¿Eres voluntario en alguna asociación?; sí; no; poco frecuentemente; muy a menudo
+845;Behave;2; ¿Respetas las señales de prohibición?; sí; no; poco frecuentemente; casi siempre
+846;Behave;2; ¿Tienes cuidado de no contaminar?; sí; no; poco frecuentemente; casi siempre
+847;Behave;2; ¿Escuchas la radio a todo volumen?; sí; no; poco frecuentemente; muy a menudo
+848;Behave;2; Cuando ves a una persona en uniforme...; yo lo respeto; soy indiferente; tengo un sentimiento de resentimiento;
+849;Behave;2; Cuando ves a tu amigo comportarse de forma extraña piensas:; él/ella quiere ser el centro de atención; él / ella debe haber tenido una infancia difícil; es una persona extrovertida;
+850;Behave;2; Para lograr sus objetivos, con mucho gusto eludiría algunas reglas:; real; falso; depende de la importancia de mi objetivo;
+851;Behave;2; ¿Cómo consideras a las personas que hacen voluntariado?; generoso; emprendedor; como todas las demás personas; audaz
+852;Behave;2; Cuando conduces, ¿cómo te comportas?; soy imprudente; soy muy cuidadoso; Conduzco tranquilo escuchando buena música;
+853;Behave;2;Vas en el autobús y ves a un anciano parado, ¿qué haces?; le dejo mi asiento; Estoy buscando un asiento libre para él.; Yo no hago nada;
+854;Behave;2; Hablas con una persona que tiene problemas de audición y le cuesta entenderte, ¿qué haces?; Dejaré de hablar ahora; levanto mucho la voz; Enuncio las palabras más despacio.;
+855;Behave;2; Te encuentras un maletín lleno de dinero en la calle, ¿qué haces?; Lo escondo y lo llevo a casa.; Saco el dinero y dejo el maletín ahí.; se lo entrego a la policia;
+856;Behave;2; Las personas que no respetan la religión de los demás...; son incivilizados; tendrán sus razones; seguramente no respetan muchas otras cosas;
+857;Behave;2; ¿Cuál de estos temas sientes más cercano a tu sensibilidad?; asistencia a ancianos; protección infantil; bienestar de los animales;
+858;Behave;2; ¿Te ofrecerías como voluntario en un hogar de ancianos?; no; seguramente; No sé;
+859;Behave;2; ¿Dejas de hacer lo que estás haciendo para ayudar a otros?; sí; no; poco frecuentemente; muy a menudo
+860;Behave;2;¿Ayudarías a una persona discapacitada a vestirse?; sí; no;tal vez, nunca lo he intentado;
+861;Behave;2; ¿Te interesan las leyes y sus aplicaciones?; sí; no; poco frecuentemente;
+862;Behave;2; Una persona se siente mal a tu lado en el metro, ¿cómo te comportas?; lo/la ayudo inmediatamente; Inmediatamente llamo a una ambulancia; Pido ayuda a otras personas en el metro.;
+863;Reaction - Blue;40; ¿Sobreviviste a un accidente de avión gracias a?; fue solo suerte; Dios; extrañas coincidencias;
+864;Reaction - Blue;40; Durante un viaje en el metro ves a una mujer siendo asaltada sin darte cuenta. ¿Qué estás haciendo?; No sé; Llamaré a la policía; no pretendo nada;
+865;Reaction - Blue;40; Presencias un ataque a unos metros de ti, ¿cómo te comportas?; ayudo a la persona agredida; Llamaré a la policía; permanezco inmóvil;
+866;Reaction - Blue;40; Te encuentras con un hombre que te pide caridad, ¿cómo te comportas?; le dejo una oferta; lo insulto; me quedo indiferente;
+867;Reaction - Blue;40; Tienes una rueda pinchada, ¿qué haces?; Yo lo cambie; pido ayuda; Espero que alguien se detenga y me ayude.;
+868;Reaction - Blue;40; Te quedas solo en tu ciudad, ¿qué haces?; Me escapé; Me quedo en casa;Paso mis días vagando sin rumbo;
+869;Reaction - Blue;40; Cuando miras las estrellas...; Puedo ver formas; admiro su belleza; me siento tan pequeño;
+870;Reaction - Blue;40; Ves a una hermosa chica haciendo autostop durante una fuerte tormenta, ¿qué haces?; Me detengo y la dejo ir; finjo no verla; sigo mi camino;
+871;Reaction - Blue;40; Acaba de ocurrir una colisión trasera, ¿qué haces?; Me detengo y pregunto si alguien resultó herido.; sigo mi camino; Llamaré a la policía;
+872;Reaction - Blue;40; Cuando viajas en avión..; yo duermo; Yo leo; estoy ansioso;
+873;Reaction - Blue;40; Detenido en el coche en una columna..; Espero a que termine la fila; Pienso como saltarme la columna; hago sonar la bocina;
+874;Reaction - Blue;40; Te escapaste después de causar un accidente, ¿le dirías a alguien?; no le diría a nadie; después de un tiempo iría a la policía; Se lo diría a la persona más querida que tengo.;
+875;Reaction - Blue;40; De repente recibes un beso de una persona desconocida, ¿qué haces?; permanezco inmóvil; Yo me enojo; Me escapé;
+876;Reaction - Blue;40; Hiciste una gran victoria, ¿qué haces?; no le digo a nadie;Ofrezco un trago a todos.; Inmediatamente pienso en mi futuro.;
+877;Reaction - Blue;40; Durante una salida en bicicleta se desata una tormenta muy fuerte, ¿qué haces?; Estoy buscando un lugar para cobijarme; Empiezo a pedalear rápido; Disfruto de la tormenta continuando la salida en bici;
+878;Reaction - Blue;40; Un perro callejero viene hacia ti gruñendo, ¿qué haces?; Me escapé; trato de mantener la calma; Me quedo indiferente y sigo mi camino;
+879;Reaction - Blue;40; Si tomaras el control de un avión que se estrella, ¿dónde intentarías aterrizar?; En un campo; en una pista de aterrizaje; en el agua;
+880;Reaction - Blue;40; Si ocurre un terremoto, ¿qué haces?; salgo corriendo a la calle; me quedo donde estoy; Intento ayudar a los que están cerca de mí.;
+881;Reaction - Blue;40; Estás en el primer piso de un edificio cuando se produce un incendio, ¿qué haces?; me tiro desde el balcon de la casa; tomo el ascensor; corro escaleras arriba;
+882;Reaction - Blue;40; Si te pierdes por la noche en un lugar aislado, ¿qué haces?; me quedo donde estoy; estoy buscando ayuda; No sé;
+883;Reaction - Blue;40;¿Has soñado con nadar en el océano entre los peces, cómo te sientes al despertar?; me siento sereno; empiezo el día positivamente; Siento miedo, le tengo miedo al agua.;
+884;Reaction - Red;43; Estás en una isla desierta y necesitas construirte un refugio, ¿dónde lo consigues?; en la playa; arriba en la colina; en cualquier lugar está bien;
+885;Reaction - Red;43; Estás en una fiesta con tu hijo pero nadie juega con él, ¿qué haces?; Lo animo a que conozca a los otros niños.; me lo llevo; observo como se comporta;
+886;Reaction - Red;43; Hiciste un examen y estabas convencido de que estabas preparado pero reprobaste, ¿cómo te comportas?; me enojo con el profesor; Creo que lo haré mejor la próxima vez.; cambio de curso de estudio;
+887;Reaction - Red;43; Si te encontraras con nativos en una isla desierta, ¿cómo te comportarías?; les pediria ayuda; me escaparía; trataría de hablar con ellos;
+888;Reaction - Red;43; Un insecto nunca visto se arrastra por tu ventana, ¿cómo te comportas?;mato al insecto; no pretendo nada; Llamo a alguien para mostrarles el insecto;
+889;Reaction - Red;43; Llegaste a la caja pero olvidaste tu billetera, ¿qué haces?; me disculpo y me voy a casa; Pregunto si me pueden dar la mercancía de todos modos; Le pido a alguien si me puede prestar algo de dinero;
+890;Reaction - Red;43; Estás en un bosque, ¿cómo son los árboles?; alto y grueso; bajo y escaso; en muy mal estado;
+891;Reaction - Red;43; Estás en un bosque, ¿a qué hora del día?; noche; día; puesta de sol;
+892;Reaction - Red;43; Estás en un bosque y tienes un arroyo frente a ti, ¿cómo es?; profundo; bajo; muy ancho;
+893;Reaction - Red;43; Estás en un bosque y te encuentras con un río frente a ti, ¿qué haces?; lo cruzo; me quedo donde estoy; Espero que alguien venga a ayudarme.;
+894;Reaction - Red;43; Estás en un bosque, es de noche y encuentras una cueva oscura, ¿qué haces?; entro de inmediato; tengo miedo pero entro; No entro, tengo miedo.;
+895;Reaction - Red;43; Estás caminando por un bosque, ¿cuál es el color que domina el paisaje?;verde brillante; verde oscuro; rojo;
+896;Reaction - Red;43; Estás en un bosque, ¿cómo está el clima?; hay un hermoso dia; esta muy nublado; es un día sombrío;
+897;Reaction - Red;43; En un bosque encuentras una llave, ¿cómo es?; oxidado; nuevo; ligeramente desgastado;
+898;Reaction - Red;43; Estás ocupado pero el teléfono sigue sonando, ¿qué haces?; siempre respondo; respondo de vez en cuando; no contesto el teléfono;
+899;Reaction - Red;43; Olvidaste el grifo abierto pero estás en el trabajo, ¿qué haces?; vengo a casa; llamo a un vecino; Lo cerraré cuando llegue a casa.;
+900;Reaction - Red;43; Tu bebé no deja de llorar, ¿qué haces?; trato de calmarlo; llamo a mis padres; yo voy al hospital;
+901;Reaction - Red;43; Llaman a la puerta por la noche, ¿qué haces?; Finjo que no estoy allí; les pregunto quienes son; Me apresuro a abrirlos con mucho miedo;
+902;Reaction - Red;43; Eres testigo del robo de tu auto, ¿qué haces?; Llamaré a la policía; Me desespero; Trato de detener a los ladrones;
+903;Reaction - Red;43;Eres testigo de una pelea entre dos de tus amigos, ¿qué haces?; trato de dividirlos; me enojo con los dos; Tomo la defensa de uno solo;
+904;Reaction - Red;43; Entras en una tienda y ves a alguien gastando mucho dinero, ¿qué piensas?; el es rico; ¿de dónde viene el dinero?; Suertudo;
+905;Reaction - Pink;42; Tu mejor amigo, después de muchos sacrificios consigue un ascenso en tu empresa, ¿qué haces?; lo felicito; me quedo indiferente; ya no soy su amigo;
+906;Reaction - Pink;42; Se le presenta una oferta de ganancias importante pero poco clara, ¿qué hace?; rechazo la oferta; acepto inmediatamente; Me tomo el tiempo para decidir qué hacer.;
+907;Reaction - Pink;42; Mientras caminas de noche te detiene una chica encantadora, ¿qué haces?; me detengo a conocerla; Me escapé; Le pregunto si necesita ayuda.;
+908;Reaction - Pink;42; Entras en el ascensor y te encuentras a solas con una joven que tiene un grave defecto físico, ¿qué haces?; no pretendo nada; Miro a mi alrededor; Secretamente miro su problema; la miro fijamente
+909;Reaction - Pink;42;Caminando por una playa encuentras una pulsera de oro, ¿qué haces?; busco socorrista; Detengo a las personas cercanas a mí.; lo vendo;
+910;Reaction - Pink;42; Durante un viaje en una lancha a motor, el motor de la lancha se descompone. ¿A qué te dedicas?; trato de arreglar el motor; entro en pánico; Intento contactar con alguien que me pueda ayudar.;
+911;Reaction - Pink;42; Estás en una entrevista con otras 4 personas, todas están contratadas menos tú. ¿A qué te dedicas?; Me escapé; me enojo mucho; exijo explicaciones;
+912;Reaction - Pink;42; Te enteras que tus compañeros de trabajo son amantes, ¿qué haces?; me quedo indiferente; le digo al jefe; se lo digo a mis otros compañeros;
+913;Reaction - Pink;42; Estás en un lugar desconocido, ¿qué haces?; Me escapé; yo uso el navegador; Memorizo el nombre de una calle a mi alrededor;
+914;Reaction - Pink;42; Te encuentras en una nueva ciudad sin celular y solo un mapa en tus manos, ¿qué haces?; no se como usarlo; me oriento facilmente; Estudio el mapa para saber a dónde ir.;
+915;Reaction - Pink;42;Tienes que armar los muebles que te dieron, ¿qué haces?; pido ayuda; los armo facilmente; no es fácil pero puedo hacerlo;
+916;Reaction - Pink;42; Tienes que organizar el evento de tus sueños, ¿dónde lo organizas?; en una playa maravillosa; en una lujosa villa; en un hermoso jardín;
+917;Reaction - Pink;42; Cuando hablas por teléfono con alguien, ¿qué haces?; pienso en otra cosa; yo fumo; Solo me concentro en la llamada;
+918;Reaction - Pink;42; Estás frente a un castillo, ¿de qué material es la puerta de entrada?; madera; vidrio; planchar; el plastico
+919;Reaction - Pink;42; Estás frente a un castillo, ¿cuál es la característica de la puerta principal?; es simple; esta cubierto de plantas; es enorme;
+920;Reaction - Pink;42; Acabas de entrar en un castillo, ¿qué es lo primero que ves?; una gran chimenea; una habitación grande con una hermosa decoración; una biblioteca con miles de libros; un pasillo muy estrecho
+921;Reaction - Pink;42; Estás dentro de un castillo y te encuentras con una escalera, ¿cómo es?; espiral;es enorme con escalones muy anchos; es muy alto;
+922;Reaction - Pink;42; Estás dentro de un castillo y entras en una habitación del piso superior, ¿qué ves desde la ventana?; un gran césped verde; un bosque lleno de nieve; un mar tormentoso; una ciudad
+923;Reaction - Pink;42; Acabas de entrar en un castillo y encuentras una puerta trasera que conduce a un patio, ¿cómo es?; es hermoso y ordenado; es desordenado pero sería hermoso si se mantuviera bien; está mal mantenido y da miedo;
+924;Reaction - Pink;42; Entraste en un castillo, ¿quién es el propietario?; una persona agradable; una persona aterradora; el castillo está deshabitado;
+925;Reaction - Green;41; Has entrado en un castillo y tienes mucha hambre, ¿qué encuentras para comer?; nada; cada manjar; solo carne de caza;
+926;Reaction - Green;41; Estás frente a un castillo, ¿de qué tamaño es?; es pequeño y bien mantenido; es genial pero se esta cayendo a pedazos; es grande y cuidada en cada detalle;
+927;Reaction - Green;41;¿Qué camino tomaste para llegar frente a un hermoso castillo?; un camino estrecho; Pasé por hermosos campos verdes; un camino de tierra pero grande;
+928;Reaction - Green;41; Has entrado en un castillo y ves una mesa grande, ¿qué forma tiene?; hexagonal; circular; rectangular;
+929;Reaction - Green;41; Has entrado en un castillo, está oscuro pero encuentras 20 velas, ¿cuántas enciendes?;20;1; entre 2 y 10; entre 11 y 19
+930;Reaction - Green;41; Has entrado en un castillo y dentro solo vive un animal, ¿cuál es?; un perro; un tigre; un loro; un gato
+931;Reaction - Green;41; En tu funeral...; nadie aparece; hay lleno de gente; solo están las personas más cercanas a mí;
+932;Reaction - Green;41; En tu boda...; somos muy pocos; es una gran fiesta; solo somos yo y el que amo;
+933;Reaction - Green;41; ¿Cuál de estas situaciones preferirías…; un mundo donde yo gobierno sobre todos; un mundo donde no hay diferencias; un mundo donde todos tienen grandes oportunidades;
+934;Reaction - Green;41;Si tuvieras una máquina del tiempo...; Borraría la muerte de un ser querido; corregiría mis errores; Cambiaría algunos hechos históricos;
+935;Reaction - Green;41; Te encuentras con un adivino que anuncia la boda de tu hijo, ¿qué le preguntas?; nada; ¿cuándo se casará?; si el matrimonio va bien;
+936;Reaction - Green;41; Si pudieras elegir una nueva carrera, ¿cuál te gustaría ser?; un médico de renombre internacional; una estrella de cine; un gran abogado; amo mi carrera
+937;Reaction - Green;41; Si pudieras elegir qué agregar a tu vida, ¿qué sería?; más tiempo; mas dinero; más amor;
+938;Reaction - Green;41; El barco en el que viajas volcó, ¿qué haces?; Sacrifico a un pasajero para salvar a un familiar; Me salvo sacrificando a otro pasajero; trato de escapar;
+939;Reaction - Green;41; Tienes la capacidad de cambiar la hora, ¿qué preferirías hacer?; cambiar el pasado; revisa el presente; conocer y cambiar el futuro;
+940;Reaction - Green;41;¿Qué dices antes de tomar una foto?; ¡Queso!; estoy contando; nada;
+941;Reaction - Green;41; Un niño pequeño se cae mientras corre, ¿cómo reaccionas?; yo me asusto; Me río; creo que si hubiera tenido cuidado no le hubiera pasado nada;
+942;Reaction - Green;41; Estás caminando en una gran ciudad y te encuentras con muchas personas, ¿cuántas te sonríen?; muchos; muy pocos; solamente una persona;
+943;Reaction - Green;41; Tienes que hacer reír a un extraño, ¿qué le dices?; una broma; una anécdota de mi vida; mi defecto;
+944;Reaction - Green;41; En una fiesta te quieren sacar fotos constantemente, ¿tú que opinas?; odio las fotos; estoy feliz; la gente es muy grosera;
+945;Money - Green;29; Te dan un regalo de poco valor, que opinas?; Lo aprecio; eso suena a burla; la gente es tacaña;
+946;Money - Green;29; Te invitan a almorzar y te hacen pagar la cuenta, que opinas?; me quedo sin palabras; nunca volveré a salir juntos; quien me invitó no es muy educado;
+947;Money - Green;29;Un amigo lleva puesto el reloj de tus sueños, ¿qué te parece?; me vendría mejor; me alegro por el/ella; como lo compro, es un misterio;
+948;Money - Green;29; Quien te invitó cancela la cita unos minutos antes de tu reunión, ¿qué opinas?; inventó una excusa; él realmente tenía un problema; el es una persona grosera;
+949;Money - Green;29; ¿En qué te hace pensar la forma de un prisma?; éxito; una forma geometrica; misterio;
+950;Money - Green;29; Tu mejor amigo te señala un grave error que cometiste, que opinas:; gracias por la ayuda preciosa; Métete en tus asuntos; siempre señala solo las cosas negativas;
+951;Money - Green;29; ¿Te gustaría ganar la lotería?; seguramente; no; tal vez, tendría miedo de ganar mucho dinero;
+952;Money - Green;29; Si cobraras una gran cantidad en la lotería, ¿qué harías?; cambiaria mi vida; compraría todo lo que quisiera; no cambiaría nada para mí;
+953;Money - Green;29; Asocias el dinero con:; felicidad; energía; tranquilidad; codicia
+954;Money - Green;29; ¿A qué compra no podrías renunciar?;máquina; libros; alimento;
+955;Money - Green;29; Encuentras un papel en la calle, ¿qué está escrito en él?; una carta de amor; un código bancario secreto; una solicitud de ayuda;
+956;Money - Green;29; Te obligan a ver un programa, ¿de qué se trata?; un noticiero; una pelicula romantica; un programa cientifico; un documental
+957;Money - Green;29; La tienda cerca de tu casa tiene precios caros, ¿la prefieres a una lejana con precios más baratos?; sí; no; solo si los dueños son muy amables;
+958;Money - Green;29; Quieres hacerle un regalo a la persona que amas pero no tienes dinero, ¿qué haces?; pediré dinero prestado; Me rindo; nunca me ha pasado;
+959;Money - Green;29; Un extraño te puso en su testamento, ¿qué te parece?; Tuve mucha suerte; sin duda es un error; ¡Me lo merezco!;
+960;Money - Green;29; Compraste, sin saberlo, una casa arriba de un posible campo petrolero, ¿qué haces?; Intento revender la casa ganando dinero.; Compro maquinaria para extraer aceite; No me importa y sigo viviendo sin pensarlo;
+961;Money - Green;29;Si piensas en tus metas económicas para los próximos 3 meses, ¿qué te viene a la mente?; hacérse Rico; ahorrar dinero; mantener mi nivel de vida actual;
+962;Money - Green;29; ¿Siempre sales con mucho dinero en el bolsillo?; sí; no; poco frecuentemente; muy a menudo
+963;Money - Green;29; ¿Te gustaría estimar el valor de algunos objetos?; sí; no;tal vez, nunca lo he intentado;
+964;Money - Green;29; ¿Conservas los detalles de los pagos que has realizado?; sí; no; poco frecuentemente; casi siempre
+965;Money - Green;29; ¿Le gustaría supervisar todos los aspectos de una empresa que cotiza en bolsa?; sí; no, no estoy interesado; tal vez eso sería genial; no, es muy complicado
+966;Money - Pink;30; ¿Por qué a algunas personas les gusta gastar dinero?; sentirse único; sentir emociones fuertes; ser admirado por los demás;
+967;Money - Pink;30;“Es mejor el uso de las riquezas que la posesión de ellas.”;estoy de acuerdo;no estoy de acuerdo;estoy de acuerdo sólo en parte;
+968;Money - Pink;30;“El oro es como las mujeres, que todos dicen mal de ellas y todos las desean.”;estoy de acuerdo;no estoy de acuerdo;estoy de acuerdo sólo en parte;
+969;Money - Pink;30;“La verdadera riqueza se halla en el corazón, no en la cartera.”;estoy de acuerdo;no estoy de acuerdo;estoy de acuerdo sólo en parte;
+970;Money - Pink;30;“La importancia de las cantidades de dinero varia notablemente según hayan de ser pagadas o cobradas.”;estoy de acuerdo;no estoy de acuerdo;estoy de acuerdo sólo en parte;
+971;Money - Pink;30;“La riqueza no se mide por las cosas que se poseen sino por aquellas de las que sabemos prescindir.”;estoy de acuerdo;no estoy de acuerdo;estoy de acuerdo sólo en parte;
+972;Money - Pink;30;“Arreglar los problemas no es difícil: lo único necesario es dinero.”;estoy de acuerdo;no estoy de acuerdo;estoy de acuerdo sólo en parte;
+973;Money - Pink;30;“La riqueza consiste mucho más en el disfrute que en la posesión.”;estoy de acuerdo;no estoy de acuerdo;estoy de acuerdo sólo en parte;
+974;Money - Pink;30;“El dinero no comprará la felicidad a quien no sabe que desea.”;estoy de acuerdo;no estoy de acuerdo;estoy de acuerdo sólo en parte;
+975;Money - Pink;30;“Mejor acostarse con hambre que levantarse con deudas.”;estoy de acuerdo;no estoy de acuerdo;estoy de acuerdo sólo en parte;
+976;Money - Pink;30;“Nada existe más dulce que la miel, excepto el dinero.”;estoy de acuerdo;no estoy de acuerdo;estoy de acuerdo sólo en parte;
+977;Money - Pink;30;"“Presta dinero a tu enemigo y lo ganarás a él; préstalo a tu amigo y lo perderás.”";estoy de acuerdo;no estoy de acuerdo;estoy de acuerdo sólo en parte;
+978;Money - Pink;30;“El dinero no puede comprar la vida.”;estoy de acuerdo;no estoy de acuerdo;estoy de acuerdo sólo en parte;
+979;Money - Pink;30;“Gasta siempre una moneda menos de lo que ganes.”;estoy de acuerdo;no estoy de acuerdo;estoy de acuerdo sólo en parte;
+980;Money - Pink;30;“El dinero siempre tiene dos inconvenientes: demasiado o demasiado poco.”;estoy de acuerdo;no estoy de acuerdo;estoy de acuerdo sólo en parte;
+981;Money - Pink;30;“El dinero es el sustituto técnico de Dios.”;estoy de acuerdo;no estoy de acuerdo;estoy de acuerdo sólo en parte;
+982;Money - Pink;30;“La única forma de no pensar en el dinero es tener una gran cantidad del mismo.”;estoy de acuerdo;no estoy de acuerdo;estoy de acuerdo sólo en parte;
+983;Money - Pink;30;"“Sin creer puede vivirse; sin crédito es imposible.”";estoy de acuerdo;no estoy de acuerdo;estoy de acuerdo sólo en parte;
+984;Money - Pink;30;“Un rico es diferente al que no lo es: tiene más dinero.”;estoy de acuerdo;no estoy de acuerdo;estoy de acuerdo sólo en parte;
+985;Money - Pink;30;"""El verdadero medio de ganar mucho consiste en no querer nunca ganar demasiado.”";estoy de acuerdo;no estoy de acuerdo;estoy de acuerdo sólo en parte;
+986;Money - Pink;30;“Soy un revolucionario, el dinero no significa nada para mí.”;estoy de acuerdo;no estoy de acuerdo;estoy de acuerdo sólo en parte;
+987;Money - Pink;30; Un tío te deja una fortuna, ¿qué te parece?; ¡Me lo merezco!; no lo merezco; Creo que es muy importante ser caritativo.;
+988;Communication - Pink;5; ¿Está más impresionado por la forma general que por los diversos detalles que la componen?; no; solo parcialmente; suficiente; seguramente
+989;Communication - Pink;5; Cuando cuentas algo sobre tu pasado, ¿te gusta centrarte en los detalles?; no; algunas veces; casi siempre; siempre
+990;Communication - Pink;5; Cuando miras una pintura, ¿te fascina la vista general?; no; algunas veces; casi siempre; siempre
+991;Communication - Pink;5; Cuando miras una figura, ¿primero analizas los detalles?; no; algunas veces; casi siempre; siempre
+992;Communication - Pink;5;¿Entiendes fácilmente un tema si primero te dan una descripción general?; no; algunas veces; casi siempre; sí
+993;Communication - Pink;5; ¿Te resulta más fácil entender algo si te lo explican punto por punto?; no; algunas veces; casi siempre; sí
+994;Communication - Pink;5; ¿Se siente cómodo cuando tiene una visión global del tema?; no; algunas veces; casi siempre; sí
+995;Communication - Pink;5; ¿Te gustan los juegos de palabras?; no; suficiente; sí;
+996;Communication - Pink;5; ¿Memorizas números con más facilidad cuando están escritos sin una lógica precisa, que dentro de unos gráficos?; no; suficiente; sí;
+997;Communication - Pink;5; ¿Te gustan los libros con muchas imágenes?; no; suficiente; sí;
+998;Communication - Pink;5; ¿Entiendes mejor las cosas cuando puedes usar diagramas y/o gráficos?; no; algunas veces; casi siempre; sí
+999;Communication - Pink;5; ¿Te resulta fácil expresarte con un texto escrito?; no; suficiente; sí;
+1000;Communication - Pink;5; ¿Prefieres estudiar sobre representaciones visuales en lugar de textos escritos?; no; algunas veces; sí; casi siempre
+1001;Communication - Pink;5; ¿Recuerdas cómo se ve un lugar más fácilmente que su nombre?; no; poco frecuentemente; sí; casi siempre
+1002;Communication - Pink;5; ¿Alguna vez te has quedado asombrado frente a un cuadro?; sí; no; talvez una vez;
+1003;Communication - Pink;5; ¿Tienes un amplio repertorio léxico?; sí; no; promedio;
+1004;Communication - Pink;5; Tu forma de pensar se parece a la de...; un ingeniero; un filosofo; un artista; una estrella
+1005;Communication - Pink;5;¿Cómo organizas tus días?; escribir citas en una hoja; teniendo en cuenta las cosas que hacer; nunca organizo nada;
+1006;Communication - Purple;6; ¿Entiende fácilmente los nuevos conceptos que se le proponen?; sí; no; suficiente; casi siempre
+1007;Communication - Purple;6; ¿Tienes que repetir las cosas que dices porque la gente no las entiende?; sí; no; algunas veces; casi siempre
+1008;Communication - Purple;6; Si tuvieras que dibujar un sol, ¿cómo sería?; forma oval; figura circular; estilizado;
+1009;Communication - Purple;6; Si tuvieras que dibujar un ser humano, dibujarías:; un hombre; una mujer;un niño;
+1010;Communication - Purple;6; Si tuvieras que dibujar una familia, ¿a quién incluirías?; padres; padres y un niño; padres, niños y mascotas;
+1011;Communication - Purple;6; ¿De qué tamaño son tus dibujos?; largo; pequeña; a veces grande, a veces pequeño;
+1012;Communication - Purple;6; Dentro de tu dibujo hay:; ángulos y curvas; lineas rectas; figuras muy estereotipadas;
+1013;Communication - Purple;6; Si dibujas personas, ¿cómo las colocas?; cercano; distante; en una esquina de la hoja;
+1014;Communication - Purple;6;¿Puedes reproducir exactamente las manecillas de un reloj?; seguramente; no; poco frecuentemente;
+1015;Communication - Purple;6; Estás dibujando un hombre bajo la lluvia...; el tiene un paraguas; no tiene paraguas; tiene un sombrero para protegerse;
+1016;Communication - Purple;6; Tienes que dibujar un árbol, ¿tiene raíces?; no; si, muy pequeño; si, muy grande;
+1017;Communication - Purple;6; Tienes que dibujar un árbol, ¿de qué tamaño es el tronco?; proporcionado; delgada; grueso;
+1018;Communication - Purple;6; Necesitas dibujar un árbol, ¿hay ramas a lo largo del tronco?; si, alguien; no; Si muchos;
+1019;Communication - Purple;6; ¿Cómo dibujarías la copa de un árbol?; con pequeños arcos; redondeado; puntiagudo;
+1020;Communication - Purple;6; ¿Cómo dibujarías los ojos?; pequeña; grande; cerrado;
+1021;Communication - Purple;6; ¿Cómo dibujarías una nariz?; muy grande; muy delgado; proporcional a la cara;
+1022;Communication - Purple;6; ¿Cómo dibujarías el cabello?; ondulado; significativo delgado; voluminoso;
+1023;Communication - Purple;6; Si tuvieras que diseñar una chaqueta de invierno, ¿qué no podría faltar?; los botones; la capucha; algunos bolsillos grandes;
+1024;Communication - Purple;6;Si tuvieras que dibujar una casa, ¿qué no podría faltar?; una chimenea; una valla; un sendero;
+1025;Learn - Blue;20; Cuando estudias, si subrayas o resaltas, ¿te concentras más?; no; poco frecuentemente; suficiente; sí
+1026;Learn - Blue;20; ¿Te gusta trabajar sin planificarlo todo, pero ajustándolo sobre la marcha?; no; poco frecuentemente; suficiente; sí
+1027;Learn - Blue;20; ¿Prefieres maestros que te asignen trabajo que luego puedas hacer como mejor te parezca?; no; poco frecuentemente; suficiente; sí
+1028;Learn - Blue;20; ¿Le resulta difícil entender una palabra o concepto si no se le dan ejemplos?; no; poco frecuentemente; suficiente; sí
+1029;Learn - Blue;20; ¿Le resulta difícil entender gráficos y tablas sin explicaciones escritas?; no; poco frecuentemente; suficiente; sí
+1030;Learn - Blue;20; ¿Prefieres trabajar paso a paso y completar cada tarea antes de comenzar con la siguiente?; no; poco frecuentemente; suficiente; sí
+1031;Learn - Blue;20; ¿Recuerdas un tema si puedes probar y probar de qué se está hablando?; no; poco frecuentemente; suficiente; sí
+1032;Learn - Blue;20; ¿Prefieres aprender algo leyendo en lugar de escuchar la explicación?; no; poco frecuentemente; suficiente; sí
+1033;Learn - Blue;20; ¿Le da satisfacción entender las ideas generales de un tema sin considerar los detalles?; no; poco frecuentemente; suficiente; sí
+1034;Learn - Blue;20; ¿Te encanta el trabajo en equipo?; no; poco frecuentemente; suficiente; sí
+1035;Learn - Blue;20;¿Aprendes más mirando dibujos, imágenes y gráficos que leyendo los textos?; no; poco frecuentemente; suficiente; sí
+1036;Learn - Blue;20; ¿Te detienes a mencionar los detalles de su carácter cuando hablas de tu pareja?; no; poco frecuentemente; casi siempre; sí
+1037;Learn - Blue;20; Incluso si no lo miras a la cara, ¿puedes seguir fácilmente a alguien que habla?; no; poco frecuentemente; suficiente; sí
+1038;Learn - Blue;20; ¿Te resulta más fácil entender las cosas si las ves escritas?; no; poco frecuentemente; casi siempre; sí
+1039;Learn - Blue;20; ¿Prefieres que otra persona decida por ti cómo crear los distintos grupos de trabajo, si tienes que trabajar en equipo?; no; poco frecuentemente; suficiente; sí
+1040;Learn - Blue;20; ¿Escribir o dibujar te ayuda a comprender mejor un concepto?; no; poco frecuentemente; casi siempre; sí
+1041;Learn - Blue;20; ¿Tienes mejor capacidad para recordar y aprender cosas si estudias solo?; no; poco frecuentemente; suficiente; sí
+1042;Learn - Blue;20; Dentro de un grupo de trabajo, ¿prefiere que se le deje al propio grupo la oportunidad de gestionar sus tareas?; no; poco frecuentemente; suficiente; sí
+1043;Learn - Yellow;22; ¿Eres capaz de organizar tu tiempo tanto en el trabajo como en otras actividades?; no; poco frecuentemente; casi siempre; sí
+1044;Learn - Yellow;22; ¿Creas imágenes e ideas en tu mente cuando lees un libro?; no; poco frecuentemente; casi siempre; sí
+1045;Learn - Yellow;22; ¿Necesita moverse y tomar descansos frecuentes cuando estudia algo?; no; poco frecuentemente; casi siempre; sí
+1046;Learn - Yellow;22;Después de trabajar en equipo, ¿sientes que has aprendido más que si lo hubieras hecho solo?; no; poco frecuentemente; suficiente; sí
+1047;Learn - Yellow;22; ¿Prefieres ejercicios con una sola respuesta a aquellos con múltiples opciones?; no; poco frecuentemente; suficiente; sí
+1048;Learn - Yellow;22; ¿Tienes ganas de perder el tiempo cuando trabajas o estudias con otra persona?; no; poco frecuentemente; suficiente; sí
+1049;Learn - Yellow;22; ¿Recuerdas más las imágenes impresas si tienen colores vivos?; no; poco frecuentemente; suficiente; sí
+1050;Learn - Yellow;22; ¿Es más fácil para usted entender un concepto si comienza desde la perspectiva del todo en lugar de los detalles?; no; poco frecuentemente; suficiente; sí
+1051;Learn - Yellow;22; Antes de aplicar algo, ¿prefieres que te lo expliquen claramente?; no; poco frecuentemente; suficiente; sí
+1052;Learn - Yellow;22; ¿Necesitas dibujar y escribir para entender un texto?; no; poco frecuentemente; suficiente; sí
+1053;Learn - Yellow;22; ¿Se aprende más en un salón de clases que en casa?; no; poco frecuentemente; suficiente; sí
+1054;Learn - Yellow;22; ¿Prefiere comenzar algo de inmediato, en lugar de leer o escuchar instrucciones?; no; poco frecuentemente; casi siempre; sí
+1055;Learn - Yellow;22; ¿Aprende más si algo se le explica verbalmente en lugar de por escrito?; no; poco frecuentemente; suficiente; sí
+1056;Learn - Yellow;22; ¿Prefieres tomar notas cuando alguien te explica algo?; no; poco frecuentemente; casi siempre; sí
+1057;Learn - Yellow;22; ¿Eres bueno para resumir un tema?; no; poco frecuentemente; suficiente; sí
+1058;Learn - Yellow;22;¿Necesitas leer o repetir en voz alta si estudias algo para entender más?; no; poco frecuentemente; suficiente; sí
+1059;Learn - Yellow;22; ¿Confías en tu instinto para decidir algo en lugar de la lógica?; no; poco frecuentemente; casi siempre; sí
+1060;Learn - Light Blue;21; ¿Se aprende más viendo un vídeo o escuchando un podcast que leyendo un texto?; no; poco frecuentemente; suficiente; sí
+1061;Learn - Light Blue;21; ¿Escribes pequeños resúmenes mientras lees un libro?; no; poco frecuentemente; casi siempre; sí
+1062;Learn - Light Blue;21; ¿Prefieres escuchar una canción en la radio o ver un video en Youtube?; me gusta hacer las dos cosas; prefiero solo escuchar; me encanta ver videos con musica de fondo;
+1063;Learn - Light Blue;21; ¿Prefieres escuchar música...; en la radio; En un concierto; en movil;
+1064;Learn - Light Blue;21; ¿Ve regularmente contenido de video en línea?; muy a menudo; algunas veces; poco frecuentemente;
+1065;Learn - Light Blue;21; ¿Te interesa profundizar en el significado de las cosas?; sí; no; poco frecuentemente; casi siempre
+1066;Learn - Light Blue;21; ¿Prefieres usar la razón en lugar de los sentimientos?; sí; no; poco frecuentemente; casi siempre
+1067;Learn - Light Blue;21; ¿Aprendes las cosas que te interesan más fácilmente?; sí; No; casi siempre;
+1068;Learn - Light Blue;21; Cuando lees un libro...; Subrayo algunas frases; lo acabo de leer; escribo notas;
+1069;Learn - Light Blue;21;Lo primero que notas en una persona es:; la voz; aspecto fisico; los gestos;
+1070;Learn - Light Blue;21; ¿En qué situación te resulta más difícil mantener una conversación?; trabajar; familia; amor;
+1071;Learn - Light Blue;21; Antes de empezar un trabajo, ¿cuánto tiempo te lleva planificarlo todo?; mucho tiempo; El tiempo requerido; no planeo nada;
+1072;Learn - Light Blue;21; Te enfocas en cosas que son realmente posibles y no en cosas abstractas...; real; falso; poco frecuentemente; casi siempre
+1073;Learn - Light Blue;21; ¿Estás aburrido de leer libros científicos?; sí; no; suficiente; nunca los he leido
+1074;Learn - Light Blue;21; ¿Te sientas y escuchas con las piernas y los brazos cruzados?; sí; no; poco frecuentemente; muy a menudo
+1075;Learn - Light Blue;21; Cuando otros hablan, ¿observas sus gestos y expresiones?; sí; no; algunas veces; muy a menudo
+1076;Learn - Light Blue;21; ¿Analizas datos usando estadísticas?; sí; No; algunas veces; casi siempre
+1077;Peace and Love;37; ¿Las personas demasiado amables a menudo son falsas?; sí; no; casi siempre;
+1078;Peace and Love;37; ¿Te enoja la gente que come en exceso en las fiestas?; sí; no; muchisimo; no, no me molesta
+1079;Peace and Love;37; Un nuevo amigo que has conocido tiende a ser la estrella...; lo ignoro; Inmediatamente lo elimino de las amistades.; me quedo indiferente;
+1080;Peace and Love;37;Un anciano te habla de su pasado, que opinas?; el es muy interesante; esperemos que termine rapido; Tengo mucho que aprender;
+1081;Peace and Love;37; ¿Qué piensas de las personas extravagantes?; son excesivos; ellos son interesantes; son egocéntricos; ellos son aburridos
+1082;Peace and Love;37; Una chica joven te escribe todo el tiempo para pedirte consejo, ¿qué haces?; le respondo; me enojo con ella; sufro por su fragilidad;
+1083;Peace and Love;37; Un ser querido pierde su trabajo, ¿qué haces?; Yo lo ayudo; Espero que pueda encontrar un nuevo trabajo.; no hago nada;
+1084;Peace and Love;37; ¿Los drogadictos tienen la oportunidad de compensar sus errores?; sí; no; poco frecuentemente;
+1085;Peace and Love;37; ¿Te gusta escuchar chismes?; sí; no; poco frecuentemente; amo los chismes
+1086;Peace and Love;37; ¿Qué sistema de defensa te gustaría tener?; alas para poder escapar; escudo para protegerme; una fuerza sobrehumana;
+1087;Peace and Love;37; ¿Qué sientes cuando escuchas a una persona extranjera tratando de hablar tu idioma?; admiración por el compromiso; indiferencia;Nerviosismo;
+1088;Peace and Love;37; Cuando te adelanta un coche...; no me importa; Me aseguro de que no me ponga en peligro.; me quedo tranquilo;
+1089;Peace and Love;37; Tu mejor amigo tiene cambios de humor frecuentes, ¿cómo te comportas?; le cuento; Yo me enojo; me quedo tranquilo;
+1090;Peace and Love;37; Las personas muchas veces no valoran el tiempo que les dedicas...; real; falso; casi siempre;
+1091;Peace and Love;37; Las personas de nacionalidad extranjera te despiertan:; curiosidad; indiferencia; malestar;
+1092;Peace and Love;37; Tienes un amigo que siempre habla de sus problemas, esto te dispara:; interés; compasión; tristeza; angustia
+1093;Peace and Love;37; Considero a las personas mayores:; gente para escuchar; gente que tiene una mentalidad vieja; gente para ayudar;
+1094;Peace and Love;37; Tu equipo por desgracia pierde un partido en el último minuto, ¿cómo reaccionas?; Yo no me enfado, es un juego.; empiezo a llorar; Me enfado pero al cabo de un rato ya no pienso en ello;
+1095;Peace and Love;37; ¿Qué cliente eres en una larga fila en un supermercado?; me quejo de la larga espera; espero mi turno; Estoy buscando una excusa para pasar la línea;
+1096;Peace and Love;37;¿Crees que las personas con adicciones tienen algo especial?; sí; no; poco frecuentemente; casi siempre
